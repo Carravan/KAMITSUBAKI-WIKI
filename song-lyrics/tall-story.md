@@ -2,7 +2,7 @@
 title: Tall Story
 description: 法螺話 - RIM
 published: true
-date: 2021-06-15T14:18:29.809Z
+date: 2021-06-15T14:19:48.117Z
 tags: rim
 editor: markdown
 dateCreated: 2021-06-15T13:38:23.916Z
@@ -19,16 +19,16 @@ Song composed by Guiano. Mix and mastering by Kensuke Maeda.
 ### Side-by-Side
 |Japanese|Translation by Zecias|
 |--------|---------------------|
-|ひとに<ruby>眠<rt>ねむ</rt></ruby>るもの　あたしのこころの<ruby>中<rt>なか</rt></ruby>|The things sleeping in peoples’ hearts &emsp; inside my heart|
-|<ruby>教<rt>おし</rt></ruby>えてあげるよ　<ruby>君<rt>きみ</rt></ruby>だけに|I wouldn’t mind telling &emsp; Only you|
-|あたしはね　<ruby>実<rt>じつ</rt></ruby>は<ruby>人殺<rt>ひとごろ</rt></ruby>しなんだ|You know, I’m &emsp; Actually a murderer|
+|ひとに<ruby>眠<rt>ねむ</rt></ruby>るもの　あたしのこころの<ruby>中<rt>なか</rt></ruby>|The things sleeping in peoples’ hearts &ensp; inside my heart|
+|<ruby>教<rt>おし</rt></ruby>えてあげるよ　<ruby>君<rt>きみ</rt></ruby>だけに|I wouldn’t mind telling &ensp; Only you|
+|あたしはね　<ruby>実<rt>じつ</rt></ruby>は<ruby>人殺<rt>ひとごろ</rt></ruby>しなんだ|You know, I’m &ensp; Actually a murderer|
 |<ruby>逃<rt>に</rt></ruby>げるなら<ruby>時間<rt>じかん</rt></ruby>をあげる|If you wanna run, I’ll give you time|
-|<ruby>君<rt>きみ</rt></ruby>は　<ruby>教<rt>おし</rt></ruby>えて|You &emsp; Tell me|
+|<ruby>君<rt>きみ</rt></ruby>は　<ruby>教<rt>おし</rt></ruby>えて|You &ensp; Tell me|
 | | |
 | | |
-|あたしきっと　あたしいま|I’m certain &emsp; Right now I|
+|あたしきっと　あたしいま|I’m certain &ensp; Right now I|
 |<ruby>君<rt>きみ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べちゃいたいや|Really want to eat you|
-|そういう<ruby>眼<rt>め</rt></ruby>を　してるでしょ　あたしの<ruby>眼<rt>め</rt></ruby>|With those eyes &emsp; You know right? &emsp; My eyes|
+|そういう<ruby>眼<rt>め</rt></ruby>を　してるでしょ　あたしの<ruby>眼<rt>め</rt></ruby>|With those eyes &ensp; You know right? &ensp; My eyes|
 | | |
 | | |
 |<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt>推敲<rt>すいこう</rt></ruby>された<ruby>嘘<rt>うそ</rt></ruby>ばっか|The world is full of elaborate lies|
@@ -37,8 +37,8 @@ Song composed by Guiano. Mix and mastering by Kensuke Maeda.
 |<ruby>人<rt>ひと</rt></ruby>のことなんて<ruby>知<rt>し</rt></ruby>れやしないでしょ|It’s not like you can know other people|
 | | |
 | | |
-|もちろん<ruby>全部<rt>ぜんぶ</rt>嘘<rt>うそ</rt></ruby>だよ　あたしは<ruby>人生<rt>じんせい</rt>健康<rt>けんこう</rt>少女<rt>しょうじょ</rt></ruby>|Of course those are all lies &emsp; I’m humanity’s healthiest girl|
-|だけどさ<ruby>案外<rt>あんかい</rt></ruby>　<ruby>不思議<rt>ふしぎ</rt></ruby>じゃないよ|But it’s unexpectedly &emsp; Not strange at all|
+|もちろん<ruby>全部<rt>ぜんぶ</rt>嘘<rt>うそ</rt></ruby>だよ　あたしは<ruby>人生<rt>じんせい</rt>健康<rt>けんこう</rt>少女<rt>しょうじょ</rt></ruby>|Of course those are all lies &ensp; I’m humanity’s healthiest girl|
+|だけどさ<ruby>案外<rt>あんかい</rt></ruby>　<ruby>不思議<rt>ふしぎ</rt></ruby>じゃないよ|But it’s unexpectedly &ensp; Not strange at all|
 |<ruby>神様<rt>かみさま</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>の<ruby>知<rt>し</rt></ruby>ってるかたち　ばかり|God only exists in a form people know|
 |つまり<ruby>人<rt>ひと</rt></ruby>のいいように|Basically, as a person would|
 |<ruby>作<rt>つく</rt></ruby>られた<ruby>人造<rt>じんぞう</rt>人間<rt>にんげん</rt></ruby>なんだよ|A manufactured, artificial human|
