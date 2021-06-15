@@ -2,7 +2,7 @@
 title: Tall Story
 description: 法螺話 - RIM
 published: true
-date: 2021-06-15T14:15:43.717Z
+date: 2021-06-15T14:18:29.809Z
 tags: rim
 editor: markdown
 dateCreated: 2021-06-15T13:38:23.916Z
@@ -60,3 +60,79 @@ Song composed by Guiano. Mix and mastering by Kensuke Maeda.
 |<ruby>人<rt>ひと</rt></ruby>のことなんて<ruby>知<rt>し</rt></ruby>れやしないでしょ|It’s not like you can know other people|
 |<ruby>心<rt>こころ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>の<ruby>自分<rt>じぶん</rt></ruby>も<ruby>知<rt>し</rt></ruby>れずに|You don’t even really know yourself|
 |<ruby>人<rt>ひと</rt></ruby>のことなんて<ruby>知<rt>し</rt></ruby>れやしないでしょ|It’s not like you can know other people|
+
+### Japanese
+
+ひとに眠るもの　あたしのこころの中
+教えてあげるよ　君だけに
+あたしはね　実は人殺しなんだ
+逃げるなら時間をあげる
+君は　教えて
+
+あたしきっと　あたしいま
+君を食べちゃいたいや
+そういう眼を　してるでしょ　あたしの眼
+
+世の中推敲された嘘ばっか
+人のことなんて知れやしないでしょ
+心の奥の自分も知れずに
+人のことなんて知れやしないでしょ
+
+もちろん全部嘘だよ　あたしは人生健康少女
+だけどさ案外　不思議じゃないよ
+神様は人の知ってるかたちばかり
+つまり人のいいように
+作られた人造人間なんだよ
+なんだよ
+
+世の中推敲された嘘ばっか
+人のことなんて知れやしないでしょ
+心の奥の自分も知れずに
+人のことなんて知れやしないでしょ
+
+おばけは人前にしかこない
+月は見ている時だけ存在
+それを信じるかどうの問題
+
+世の中推敲された嘘ばっか
+人のことなんて知れやしないでしょ
+心の奥の自分も知れずに
+人のことなんて知れやしないでしょ
+
+### Translation by Zecias
+
+The things sleeping in peoples’ hearts    inside my heart
+I wouldn’t mind telling        Only you
+You know, I’m        Actually a murderer
+If you wanna run, I’ll give you time
+You    Tell me
+
+I’m certain    Right now I
+Really want to eat you
+With those eyes    You know right    ?    My eyes
+
+The world is full of elaborate lies
+It’s not like you can know other people
+You don’t even really know yourself
+There’s no way you can know other people
+
+Of course those are all lies        I’m humanity’s healthiest girl
+But it’s unexpectedly        Not strange at all
+God only exists in a form people know
+Basically, as a person would
+A manufactured, artificial human
+What the hell
+
+The world is full of elaborate lies
+It’s not like you can know other people
+You don’t even really know yourself
+There’s no way you can know other people
+
+Ghosts only come out when there are no people
+The moon only exists when you’re looking
+It’s a matter of whether you believe it or not
+
+The world is full of elaborate lies
+It’s not like you can know other people
+You don’t even really know yourself
+There’s no way you can know other people
