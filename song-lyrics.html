@@ -1,0 +1,83 @@
+<!--
+title: Songs
+description: 
+published: true
+date: 2021-06-16T09:30:01.633Z
+tags: 
+editor: code
+dateCreated: 2021-06-12T12:41:38.182Z
+-->
+
+<h1>Song Translations</h1>
+  
+<h2>Kaf</h2>
+  <ul>
+    <li><a href="/song-lyrics/majo">魔女 | majo | Witch</a></li>
+  	<li><a href="/song-lyrics/through_the_pain">痛みを | Itami Wo | Through the Pain</a></li>
+    <li><a href="/song-lyrics/flower-girl">花女 | Hanna Onna | Flower Girl</a></li>
+  </ul>
+
+<h2>RIM</h2>
+	<ul>
+		<li><a href="/song-lyrics/tall-story">法螺話 | Tall Story</a></li>
+		<li><a href="/song-lyrics/the-moon-not-kiss-the-foetation">胎児に月はキスをしない | The Moon Not Kiss the Foetation</a></li>
+	</ul>
+
+<h2>koko</h2>
+	<ul>
+		<li><a href="/song-lyrics/to-kiss-this-world">この世界に口づけを | To Kiss This World</a></li>
+	</ul>
+
+<h2>Editor Notes</h2>
+
+<h3>Markdown editor</h3>
+
+<p>I prefer to use the markdown editor, instead of the html editor. Markdown is cleaner and easier to write. Wikijs documentation <a href="https://docs.requarks.io/en/editors/code">does not recommend</a> using HTML editor.</p>
+
+<p>I'd convert all pages inside Song directory (/song-lyrics) to use the markdown editor for consistency, but there isn't an option in <a href="https://docs.requarks.io/en/editors#change-editor">Page Actions</a>. Either because wiki.js is outdated (requiers 2.5.201), or converting might require admin previleges.</p>
+
+<p>The following pages inside Song directory (/song-lyrics) are using html editor, updated 2021-06-16:</p>
+<ul>
+  <li>this page</li>
+  <li>Through the Pain</li>
+  <li>Witch</li>
+</ul>
+<p></p>
+
+<h3>Ruby Annotation</h3>
+
+<p>We can typeset furigana, or hiragana annotations on top of kanjis, by using the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby">ruby annotations</a>. The standard <code>&lt;ruby&gt;</code> HTML tag is implemented in all major browsers.</p>
+
+<h5 class="tabset">Tabs</h5>
+
+<h6>code<h6>
+<pre><code>&lt;ruby&gt;
+	痛&lt;rt&gt;いた&lt;/rt&gt;みを
+&lt;/ruby&gt;</code></pre>
+
+<h6>rendered<h6>
+<p><ruby>痛<rt>いた</rt>みを</ruby></p>
+
+<h4>Problem: Markdown Support</h4>
+<p>We have to write the raw ruby HTML tags inside markdown. There is no builtin support for generating ruby HTML tags from markdown. (Wiki.js takes markdown code, generates HTML code, then displays it.)</p>
+
+<p>The biggest reason of using markdown editor instead of HTML is that it's cleaner. Markdown is less verbose, easier to write, look at, and edit. Not having a clean way to write ruby annotations in markdown undermines this.</p>
+
+<p>If we're to implement ruby support in markdown, we first need to find a library, if we don't want to decide on the syntax and write code ourselves. There are a few libraries, one candidate might be <a href="https://github.com/n-inja/markdown-it-ruby">markdown-it-ruby</a>. And to actually use the library, we'll need to create a Pull Request on <a href="https://github.com/Requarks/wiki">Wiki.js</a>, or fork it and implement ourselves. See <a href="https://github.com/Requarks/wiki/pull/2126/files">this PR</a> for reference.</p>
+  
+<p>But that's a lot of work, so we can just simply write less ruby annotations and call it a day, but:</p>
+  
+<h4>Problem: When to Use</h4>
+<p>Ruby annotations are helpful for people learning japanese, especially on difficult kanjis (溢?), and on uncommon readings (愛 as いと instaed of あい?).</p>
+  
+<p>Having annotations on all kanjis can be helpful to beginners (me), but too many annotations might be distracting, and ruby annotations are annoying to write and edit.</p>
+
+<p>I'm not sure whrere's the balance on when to use ruby annotations, or maybe just not use annotations at all because it's too much work.</p>
+  
+<h3>Tabs</h3>
+  
+<p>I wasn't sure if we want to present the english lyrics only (copy-paste-done), or want to make a jp-en side-by-side thing. So I tried both and placed them in tags to compare. But the tabs thing looks good too so we're keeping the tabs now.</p>
+
+<p>Reference: https://docs.requarks.io/en/editors/markdown#content-tabs</p>
+  
+  
