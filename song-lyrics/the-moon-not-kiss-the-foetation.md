@@ -2,7 +2,7 @@
 title: The Moon Not Kiss the Foetation
 description: 胎児に月はキスをしない - RIM
 published: true
-date: 2021-06-16T05:23:07.517Z
+date: 2021-06-16T06:00:40.597Z
 tags: rim
 editor: markdown
 dateCreated: 2021-06-16T05:23:07.517Z
@@ -19,7 +19,7 @@ Song composed and arranged by 笹川真生. Mix and mastering by 南石聡巳 (d
 ## Tabs {.tabset}
 
 ### Side-by-Side
-|Japanese|Translation by セリネ鹿乃|
+|Japanese|Translation by セリネ鹿乃[^1]|
 |--------|------------------------|
 |大事に持ち歩いていた|Carrying around something valuable to me|
 |恋の絶頂さえ、|the climax of love,|
@@ -61,3 +61,4 @@ Song composed and arranged by 笹川真生. Mix and mastering by 南石聡巳 (d
 |どんな愛しさも、簡単に忘れそう。|Any kind of love, it's easy to forget.|
 |ずっと抱き寄せていて、良いの？|I'm going to hold you close, okay?|
 
+[^1]: found in youtube comments
