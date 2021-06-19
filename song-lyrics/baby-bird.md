@@ -1,8 +1,8 @@
 ---
 title: Baby Bird
-description: 雛鳥 hina dori - Kaf
+description: 雛鳥 Hina Dori - Kaf
 published: true
-date: 2021-06-19T15:10:13.751Z
+date: 2021-06-19T15:11:54.567Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-19T15:10:13.751Z
