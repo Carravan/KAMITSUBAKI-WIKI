@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2021-07-18T07:11:55.370Z
+date: 2021-07-18T07:13:52.406Z
 tags: people, vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -24,3 +24,5 @@ First album 観測 releasd on 11 Sep 2019 ([Spotify](https://open.spotify.com/al
 First one-man live Fukakai performed on 1 Oct 2019. Second one-man live Fukakai2 Q1 streamed on 10 Oct 2020; Fukakai Q2 streamed on youtube on 13 Mar 2021; Fukakai2 REBUILDING performed in 豊洲PIT on 11,12 Jun 2021.
 
 Performed Black Clover ED11 Answer (eps 129-140) ([Youtube](https://www.youtube.com/watch?v=V0Olmwnnpj8)); Netflix original Japan Sinks 2020 ending 景色 ([Youtube](https://www.youtube.com/watch?v=46HgoDkRCns)).
+
+Kafu, volcaloid based on Kaf in collaboration with CeVIO AI, released on 7 Jul 2021.
