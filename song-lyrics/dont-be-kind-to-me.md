@@ -1,8 +1,8 @@
 ---
-title: Yasashiku Shinaide
-description: やさしくしないで
+title: Don't be Kind to Me
+description: やさしくしないで - yasashiku shinaide
 published: true
-date: 2021-07-21T06:34:05.538Z
+date: 2021-07-21T07:39:23.931Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T06:34:05.538Z
