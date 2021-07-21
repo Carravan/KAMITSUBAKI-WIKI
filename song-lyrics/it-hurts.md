@@ -1,8 +1,8 @@
 ---
-title: Itaiyo
+title: It Hurts
 description: いたいよ
 published: true
-date: 2021-07-21T07:00:17.878Z
+date: 2021-07-21T07:35:00.902Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T07:00:17.878Z
