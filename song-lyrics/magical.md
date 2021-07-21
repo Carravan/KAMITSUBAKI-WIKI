@@ -1,8 +1,8 @@
 ---
-title: Mateki
-description: 魔的
+title: Magical
+description: 魔的 - mateki
 published: true
-date: 2021-07-21T06:29:32.392Z
+date: 2021-07-21T07:38:41.091Z
 tags: kaf, rim
 editor: markdown
 dateCreated: 2021-07-21T06:29:32.392Z
