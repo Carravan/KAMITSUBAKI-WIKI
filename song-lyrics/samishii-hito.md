@@ -1,8 +1,8 @@
 ---
-title: Samishii Hito
-description: さみしいひと
+title: Lonely
+description: さみしいひと - samishii hito
 published: true
-date: 2021-07-21T06:52:11.462Z
+date: 2021-07-21T07:37:29.216Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T06:52:11.462Z
