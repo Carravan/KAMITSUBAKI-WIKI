@@ -2,7 +2,7 @@
 title: Quiz
 description: Kaf
 published: true
-date: 2021-06-23T12:21:32.967Z
+date: 2021-07-28T06:43:59.865Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-17T11:08:39.432Z
@@ -62,4 +62,4 @@ Track 5 of Kaf's 1st album 観測.
 |迷いあって 巡りあって　痛みも涙も|The times we got lost, the times we wandered around, the pain and tears.|
 |笑いあって 探しあって　二人の血で埋めよう|The times we laughed, the times we sought, let’s bury it all under our blood.|
 |騙された日々も、曲げられた意思も|All the days I was deceived and all the twisted feelings|
-|間違いじゃない。間違いじゃない。きっと。|were not a mistake. I’m sure they’re not mistakes!|
+|間違いじゃない。間違いじゃない。きっと。|were not mistakes. They're not mistakes, I'm sure of it!|
