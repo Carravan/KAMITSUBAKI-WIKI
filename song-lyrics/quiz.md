@@ -2,7 +2,7 @@
 title: Quiz
 description: Kaf
 published: true
-date: 2021-07-28T06:43:59.865Z
+date: 2021-08-13T17:54:41.426Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-17T11:08:39.432Z
@@ -41,7 +41,7 @@ Track 5 of Kaf's 1st album 観測.
 |大丈夫だよ　大丈夫だよきっと|It’s alright. I’m sure it’s fine.|
 | | |
 | | |
-|何度傷ついて、何度つまづいて|No matter how many times I get hurt, no matter how many times I trip over,|
+|何度傷ついて、何度つまづいて|No matter how many times I get hurt, no matter how many times I fail,|
 |怯えた未来が暗い、痛い、怖い。|the future I’m frightened of is dark, painful and scary.|
 |この足で正解を選ばなきゃいけない。|I have to choose the right answer on these feet.|
 |もう逃げられない。|I can’t run away anymore.|
