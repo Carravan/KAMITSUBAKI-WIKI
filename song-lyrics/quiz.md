@@ -2,7 +2,7 @@
 title: Quiz
 description: Kaf
 published: true
-date: 2021-08-13T17:54:41.426Z
+date: 2021-08-13T18:09:24.176Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-17T11:08:39.432Z
@@ -21,7 +21,7 @@ Track 5 of Kaf's 1st album 観測.
 |すれちがいをしてたんだ僕らは|We’ve been passing by each other,|
 |痛みを避けて意味を探した|searching for a meaning to our escape from pain,|
 |遠回りを二人、巡り遊んだ|the two of us took a detour and played around.|
-|君のことばかり思って|Whenever I think of only you|
+|君のことばかり思って|Whenever I only think of you|
 |辛くなるのはきっと　弱かっただけなんだ|and feel hurt, it must be because I was weak.|
 |喧騒に揉まれてばかりの夜|In a night swallowed up by the commotion.|
 | | |
@@ -43,7 +43,7 @@ Track 5 of Kaf's 1st album 観測.
 | | |
 |何度傷ついて、何度つまづいて|No matter how many times I get hurt, no matter how many times I fail,|
 |怯えた未来が暗い、痛い、怖い。|the future I’m frightened of is dark, painful and scary.|
-|この足で正解を選ばなきゃいけない。|I have to choose the right answer on these feet.|
+|この足で正解を選ばなきゃいけない。|I have to choose the right answer on my own.|
 |もう逃げられない。|I can’t run away anymore.|
 | | |
 | | |
@@ -61,5 +61,5 @@ Track 5 of Kaf's 1st album 観測.
 | | |
 |迷いあって 巡りあって　痛みも涙も|The times we got lost, the times we wandered around, the pain and tears.|
 |笑いあって 探しあって　二人の血で埋めよう|The times we laughed, the times we sought, let’s bury it all under our blood.|
-|騙された日々も、曲げられた意思も|All the days I was deceived and all the twisted feelings|
+|騙された日々も、曲げられた意思も|All the days I was deceived and all the twisted desires|
 |間違いじゃない。間違いじゃない。きっと。|were not mistakes. They're not mistakes, I'm sure of it!|
