@@ -2,7 +2,7 @@
 title: Quiz
 description: Kaf
 published: true
-date: 2021-09-04T19:56:20.241Z
+date: 2021-09-04T20:03:06.630Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-17T11:08:39.432Z
@@ -36,7 +36,7 @@ Track 5 of Kaf's 1st album 観測.
 | | |
 | | |
 |庇いあって 慰めあって　一時の迷いを|Protecting each other, comforting each other, in the momentary hesitation.|
-|笑いあって 探しあって　一時の優しさに惑ろう|We laughed and searched for each other, in the confusion of your momentary kindness.|
+|笑いあって 探しあって　一時の優しさに惑ろう|We laughed and searched for each other, in the confusion of this momentary kindness.|
 |最後に出会うのは　痛みか間違いか|What would we be meeting at last? Would it be pain? Or mistakes?|
 |大丈夫だよ　大丈夫だよきっと|It’s alright. I’m sure it’s fine.|
 | | |
