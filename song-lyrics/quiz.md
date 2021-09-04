@@ -2,7 +2,7 @@
 title: Quiz
 description: Kaf
 published: true
-date: 2021-08-13T18:09:24.176Z
+date: 2021-09-04T19:56:20.241Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-17T11:08:39.432Z
@@ -21,12 +21,12 @@ Track 5 of Kaf's 1st album 観測.
 |すれちがいをしてたんだ僕らは|We’ve been passing by each other,|
 |痛みを避けて意味を探した|searching for a meaning to our escape from pain,|
 |遠回りを二人、巡り遊んだ|the two of us took a detour and played around.|
-|君のことばかり思って|Whenever I only think of you|
+|君のことばかり思って|Whenever I think only of you|
 |辛くなるのはきっと　弱かっただけなんだ|and feel hurt, it must be because I was weak.|
 |喧騒に揉まれてばかりの夜|In a night swallowed up by the commotion.|
 | | |
 | | |
-|恋をしよう、僕と君だけで何もいらないこの世界は|Let’s fall in love, in this world where there is no need for anything else but me and you.|
+|恋をしよう、僕と君だけで何もいらないこの世界は|Let’s fall in love, in this world where there is no need for anything else but you and me.|
 |汚さすらも全部混ぜれば|If you mix all the filth together,|
 |何もかもが許されてしまうんだ|I’m sure everything would be forgiven.|
 |騙されていたのかもしれない|You might have been deceiving me,|
@@ -37,7 +37,7 @@ Track 5 of Kaf's 1st album 観測.
 | | |
 |庇いあって 慰めあって　一時の迷いを|Protecting each other, comforting each other, in the momentary hesitation.|
 |笑いあって 探しあって　一時の優しさに惑ろう|We laughed and searched for each other, in the confusion of your momentary kindness.|
-|最後に出会うのは　痛みか間違いか|Will it be pain or mistakes that eventually meet us?|
+|最後に出会うのは　痛みか間違いか|What would we be meeting at last? Would it be pain? Or mistakes?|
 |大丈夫だよ　大丈夫だよきっと|It’s alright. I’m sure it’s fine.|
 | | |
 | | |
