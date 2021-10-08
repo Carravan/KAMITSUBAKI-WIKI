@@ -1,8 +1,8 @@
 ---
-title: カンザキイオリ
-description: Kanzaki Iori
+title: Kanzaki Iori
+description: カンザキイオリ
 published: true
-date: 2021-10-06T16:54:59.032Z
+date: 2021-10-08T13:05:43.630Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T16:54:00.815Z
