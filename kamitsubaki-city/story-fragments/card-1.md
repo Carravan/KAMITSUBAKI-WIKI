@@ -2,13 +2,13 @@
 title: No. 01 Dream
 description: 
 published: true
-date: 2021-10-12T14:28:37.732Z
+date: 2021-10-12T14:29:19.419Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:27:55.547Z
 ---
 
-Translation by Saeka
+*Translation by Saeka*
 
 As if someone was calling out to me,
 I opened my eyes.
