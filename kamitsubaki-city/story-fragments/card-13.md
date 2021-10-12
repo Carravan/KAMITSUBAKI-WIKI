@@ -1,8 +1,8 @@
 ---
-title:  No.13 Wandering Girls
+title: No.13 Wandering Girls
 description: 
 published: true
-date: 2021-10-12T21:22:32.922Z
+date: 2021-10-12T21:26:51.639Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T21:11:24.767Z
