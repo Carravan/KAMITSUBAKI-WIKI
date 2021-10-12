@@ -2,7 +2,7 @@
 title: No.02 化歩
 description: 
 published: true
-date: 2021-10-12T14:30:33.180Z
+date: 2021-10-12T20:28:44.950Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:30:33.180Z
@@ -10,7 +10,7 @@ dateCreated: 2021-10-12T14:30:33.180Z
 
 *Translation by Vaynonym*
 
-My name is Morisaki Kafu (森先化歩). I was born in the "real world", from where one day I was summoned to come here. I'm the first person.
+My name is Morisaki Kaf (森先化歩). I was born in the "real world", from where one day I was summoned to come here. I'm the first person.
 
 I say that, but it's not really anything so special. Before coming here, I've been a normal student. I lived in a suburban city in Japan and spent my time like any other person.
 
@@ -18,7 +18,7 @@ The only part that might stand out about me is that I like songs. I like listeni
 
 Then one day, I received a strange message.
 
-"Dear Miss Morisaki Kafu,
+"Dear Miss Morisaki Kaf,
 I write to you on behalf of the Kamitsubaki City Restoration Department.
 Though it pains us do so, we ask for your cooperation in the redevelopment of Kamitsubaki City.
 The restoration of said city requires your abilities."
