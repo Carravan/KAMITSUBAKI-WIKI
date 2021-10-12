@@ -2,7 +2,7 @@
 title: No.09. Meet by Chance
 description: 
 published: true
-date: 2021-10-12T14:42:25.947Z
+date: 2021-10-12T20:31:49.828Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:42:25.947Z
@@ -24,7 +24,7 @@ Soon after she finished her song, I applauded without much thought.
 I was so impressed to the point where my vocabulary had been thrown out the window.
 The girl shuddered in shock and looked at my way.
 “Eh-... W-who’s there?”
-“I am Kafu. I like songsー Err, what else...? Self introductions are kinda hard.”
+“I am Kaf. I like songsー Err, what else...? Self introductions are kinda hard.”
 “Ah! You’re the girl that the Restoration Department spoke of!”
 She said as she ran up to me with a smile on her face.
 “I’m Rime. Tanioki Rime (谷置狸眼). I’m the same as you, who got called and summoned here from the real world by the Restoration Department.” 
