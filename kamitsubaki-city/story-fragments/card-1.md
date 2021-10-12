@@ -2,13 +2,11 @@
 title: Card 1
 description: 
 published: true
-date: 2021-10-12T14:27:55.547Z
+date: 2021-10-12T14:28:25.513Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:27:55.547Z
 ---
-
-# No. 01 Dream
 
 Translation by Saeka
 
