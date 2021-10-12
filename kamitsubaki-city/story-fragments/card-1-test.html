@@ -2,16 +2,86 @@
 title: Dream Test
 description: 
 published: true
-date: 2021-10-12T21:48:16.482Z
+date: 2021-10-12T21:58:59.279Z
 tags: 
 editor: code
 dateCreated: 2021-10-12T21:23:20.957Z
 -->
 
+
+<style>
+  .tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-	<img src="/story_01.png" alt="story_01.png" />
   <div style="flex-direction: column;">
-    <img src="/card_test.png" alt="card_test.png" width="300"/>
+    <div class="tab">
+  		<button class="tablinks" onclick="switch(event, 'image')">Text</button>
+  		<button class="tablinks" onclick="switch(event, 'text')">Image</button>
+		</div>
+    <div id="image" class="tabcontent">
+			<img src="/story_01.png" alt="story_01.png" />
+    </div>
+    <div id="text" class="tabcontent">
+			<p>As if someone was calling out to me,
+I opened my eyes.
+
+What reflected in my eyes was an empty music room in the early afternoon.
+Seems like I dozed off on my seat from the exhaustion of singing.
+
+During that brief nap, I think I had a dream.
+I couldn’t really remember the fine details but,
+It felt like I was losing something important......
+
+With a faint ache in my chest, I stood up.
+The view outside the window was more unrealistic than a dream.
+
+A miscellaneous cityscape of colourful blocks stacked upon each other.
+Though the buildings were sooty,
+and some collapsed here and there.
+The scarlet sun hung in the white sky,
+and an enormous blue bird was flying around.
+
+A mysterious city that exists in a virtual world
+------ “Kamitsubaki City”
+        That’s where I currently reside.</p>
+    </div>
+    <i>Translation by Saeka</i>
+  </div>
+  <div style="flex-direction: column;">
     <figure>
         <figcaption>Story:</figcaption>
         <audio
@@ -21,8 +91,28 @@ dateCreated: 2021-10-12T21:23:20.957Z
                 <code>audio</code> element.
         </audio>
     </figure>
+    <img src="/card_test.png" alt="card_test.png" width="300"/>
   </div>
 </div>
+<script>
+  function switch(evt, type) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
 
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
 
-<p>Some text here</p>
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+  } 
+</script>
