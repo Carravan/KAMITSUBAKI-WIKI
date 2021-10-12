@@ -2,7 +2,7 @@
 title: No.10 Flower and Reason
 description: 
 published: true
-date: 2021-10-12T14:43:23.196Z
+date: 2021-10-12T20:32:37.714Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:43:23.196Z
@@ -12,7 +12,7 @@ dateCreated: 2021-10-12T14:43:23.196Z
 
 The girl who introduced herself as Rime, told me that clearly.
 Sure enough there’s no doubt about it, she’s a witch that the Restoration Department had mentioned. I sighed in relief, and Rime continued.
-“I’m glad to have met you, Kafu. I had heard about the other girl that was summoned too, but everything other than her name is too garbled up to be read."
+“I’m glad to have met you, Kaf. I had heard about the other girl that was summoned too, but everything other than her name is too garbled up to be read."
 “I could only read a part of the address here. The messages that the Restoration Department sends are always so half-assed and annoying.”
 We laughed together. Even though we had just met, it felt like we were friends from a long time ago. There was a strange affinity between us.
 “By the way Rime, when the Restoration Department had called you, did they also say that we can’t go back until all the Qs in this city are solved?”
@@ -25,6 +25,6 @@ It’s not just that we were put under the same circumstances. I was overjoyed t
 I said it with a gentle smile on my face.
 “Yeah, I was also lonely actually… But from now on I’m not alone anymore.”
 Rime held out her hand to me.
-“Let’s do our best from now on, Kafu. Solving the Qs in this city, until the day we can return to the real world!ーー”
+“Let’s do our best from now on, Kaf. Solving the Qs in this city, until the day we can return to the real world!ーー”
 “Yeah, let’s sing together, and reach the people in the real world from this virtual world!”
 In the dusky street corner, I took her hand. I could feel the warmth and reassurance from our joined hands.
