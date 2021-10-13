@@ -2,7 +2,7 @@
 title: No.10 Flower and Reason
 description: 
 published: true
-date: 2021-10-13T19:44:21.900Z
+date: 2021-10-13T19:47:08.836Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:43:23.196Z
@@ -21,7 +21,7 @@ We laughed together. Even though we had just met, it felt like we were friends f
 They had been hiding about it for whatever reason, maybe they simply forgot about it. As usual, I couldn’t really understand what the Restoration Department was thinking.
 But right now, it was more important that I finally had a friend.
 “...When I came to this city, I had always been alone. That’s why I’m really glad that you came here, Rime.”
-It’s not just that we were put under the same circumstances. I was overjoyed that I finally had a friend to sing with in this city. I’m sure that Rime also felt the same way.
+It didn't matter that we were put under the same circumstances. I was overjoyed that I finally had a friend to sing with in this city. I’m sure that Rime also felt the same way.
 I said with a gentle smile on my face.
 “Yeah, I was also lonely actually… But from now on I’m not alone anymore.”
 Rime held out her hand to me.
