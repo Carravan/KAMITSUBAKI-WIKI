@@ -2,7 +2,7 @@
 title: No.10 Flower and Reason
 description: 
 published: true
-date: 2021-10-12T20:32:37.714Z
+date: 2021-10-13T19:41:49.696Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:43:23.196Z
@@ -14,7 +14,7 @@ The girl who introduced herself as Rime, told me that clearly.
 Sure enough there’s no doubt about it, she’s a witch that the Restoration Department had mentioned. I sighed in relief, and Rime continued.
 “I’m glad to have met you, Kaf. I had heard about the other girl that was summoned too, but everything other than her name is too garbled up to be read."
 “I could only read a part of the address here. The messages that the Restoration Department sends are always so half-assed and annoying.”
-We laughed together. Even though we had just met, it felt like we were friends from a long time ago. There was a strange affinity between us.
+We laughed together. Even though we had just met, it felt like we were friends from long ago. There was a strange affinity between us.
 “By the way Rime, when the Restoration Department had called you, did they also say that we can’t go back until all the Qs in this city are solved?”
 “Seems like it. When I first heard about it I thought it was some kind of joke, but about a week has already passed since then… I guess it’s true.”
 “You’ve already been here since a week ago?! The Restoration Department should’ve told me sooner.” 
