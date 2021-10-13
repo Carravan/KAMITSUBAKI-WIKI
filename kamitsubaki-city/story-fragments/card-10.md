@@ -2,7 +2,7 @@
 title: No.10 Flower and Reason
 description: 
 published: true
-date: 2021-10-13T19:41:49.696Z
+date: 2021-10-13T19:44:21.900Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:43:23.196Z
@@ -22,7 +22,7 @@ They had been hiding about it for whatever reason, maybe they simply forgot abou
 But right now, it was more important that I finally had a friend.
 “...When I came to this city, I had always been alone. That’s why I’m really glad that you came here, Rime.”
 It’s not just that we were put under the same circumstances. I was overjoyed that I finally had a friend to sing with in this city. I’m sure that Rime also felt the same way.
-I said it with a gentle smile on my face.
+I said with a gentle smile on my face.
 “Yeah, I was also lonely actually… But from now on I’m not alone anymore.”
 Rime held out her hand to me.
 “Let’s do our best from now on, Kaf. Solving the Qs in this city, until the day we can return to the real world!ーー”
