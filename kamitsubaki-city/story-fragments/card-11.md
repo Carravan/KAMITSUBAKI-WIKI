@@ -2,7 +2,7 @@
 title: No.11 You and Me
 description: 
 published: true
-date: 2021-10-13T19:50:43.031Z
+date: 2021-10-13T19:51:10.879Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T20:55:46.994Z
@@ -12,7 +12,7 @@ dateCreated: 2021-10-12T20:55:46.994Z
 
 After I met Rime, my dull daily life became fun in a heartbeat. Even the school that I always went to alone, I now have a friend that goes there with me.
 There weren’t any other students or teachers around but still, it was nice to have a place where I could meet with my friend. The desolated school that was sort of like our secret hideout felt really cozy.
-And the days of the two of us singing in the music room began―
+And the days of the two of us singing in the music room beganー
 One of those days, Rime asked a question that suddenly came to her mind.
 “By the way, Kaf. Are there any other girls that Kamitsubaki City summoned, other than me?
 “Ah, now that you mention it, there indeed are others!”
