@@ -2,7 +2,7 @@
 title: No.10 Flower and Reason
 description: 
 published: true
-date: 2021-10-13T19:47:08.836Z
+date: 2021-10-13T19:48:18.810Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T14:43:23.196Z
@@ -25,6 +25,6 @@ It didn't matter that we were put under the same circumstances. I was overjoyed 
 I said with a gentle smile on my face.
 “Yeah, I was also lonely actually… But from now on I’m not alone anymore.”
 Rime held out her hand to me.
-“Let’s do our best from now on, Kaf. Solving the Qs in this city, until the day we can return to the real world!ーー”
+“Let’s do our best from now on, Kaf. Solving the Qs in this city, until the day we can return to the real world!ー”
 “Yeah, let’s sing together, and reach the people in the real world from this virtual world!”
 In the dusky street corner, I took her hand. I could feel the warmth and reassurance from our joined hands.
