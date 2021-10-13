@@ -2,13 +2,13 @@
 title: Shamanism
 description: 
 published: false
-date: 2021-10-13T06:37:44.237Z
+date: 2021-10-13T06:38:44.923Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-13T06:24:49.081Z
 ---
 
-SHAMANISM
+SHAMANISM Setlist
 
 00.03.13 逆転 /Gyakuten /Reversal
 00.07.35 猛進 /Moushin
