@@ -2,7 +2,7 @@
 title: No.12 A City Illuminated by Rustling Lights
 description: 
 published: true
-date: 2021-10-12T21:26:05.914Z
+date: 2021-10-13T09:03:15.446Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-12T21:02:24.009Z
@@ -16,7 +16,7 @@ It was a red-light district lit with colourful neon lights. The streets were daz
 “Seems so. But everyone’s so bounderish.”
 I agreed with Rime. It looked like there were many delinquents in the Second District. I wonder if these kinds of people sprawl out amidst the crowd.
 Even when I was in the real world, I never came to this kind of city.
-This is scary, what if we accidentally get involved with them…”
+This is scary, what if we accidentally get involved with them…
 Rime held onto my trembling hand.
 “It’s gonna be fine Kaf, I’m here with you.”
 She looked so gallant and reliable as she said that.
