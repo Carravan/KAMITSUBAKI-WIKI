@@ -2,7 +2,7 @@
 title: Kotodama Tride
 description: THE MOON STUDIO project
 published: true
-date: 2021-10-19T03:08:06.963Z
+date: 2021-10-19T04:30:36.616Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -22,3 +22,5 @@ tweet, archived: https://web.archive.org/web/20190920113408/https://twitter.com/
 
 Harusaruhi, Isekaijoucho, and their former manager Taifu were part of the Kotodama project.
 https://note.com/futashika/n/na5902f5696d9
+
+Harusaruhi's first cover is Majo (rap version).
