@@ -2,7 +2,7 @@
 title: Kotodama Tride
 description: THE MOON STUDIO project
 published: true
-date: 2021-10-19T04:32:48.438Z
+date: 2021-10-19T04:41:26.577Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -15,7 +15,7 @@ Kotodama Tribe was a project by THE MOON STUDIO, founded by Kaguya Luna and illu
 Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 15 Dec 2018 to 24 Dec 2018 in Shibuya, with tagline "その言葉に、魂はあるのか？". Featuring Kaf's song Majo.
 https://www.youtube.com/watch?v=R4sUHomdXok
 
-Pinky Pop Hepburn debuted 30 Dec 2018.
+Pinky Pop Hepburn debuted 30 Dec 2018, as the second and final character debuted from THE MOON STUDIO.
 
 THE MOON STUDIO officially folded on 30 Sep 2019 ([archived tweet](https://web.archive.org/web/20190920113408/https://twitter.com/moonstudio_jp/status/1175009247920152577
 )). For reference, Kamitsubaki Studio was formed on 18 Oct 2019.
@@ -24,3 +24,7 @@ Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/taifu) were p
 https://note.com/futashika/n/na5902f5696d9
 
 Harusaruhi's first cover is Majo (rap version).
+
+Pinky Pop Hapburn retired on 8 Jan 2021, [youtube annoucement](https://www.youtube.com/watch?v=slUFHTJCA18).
+
+Kaguya Luna last activies were on 28 Aug 2020 on youtube, and on 30 Oct 2020 on twitter. Now more famously known as P-maru sama [youtube](https://www.youtube.com/c/P%E4%B8%B8%E6%A7%98%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B).
