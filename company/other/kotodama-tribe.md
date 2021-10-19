@@ -2,13 +2,13 @@
 title: Kotodama Tride
 description: THE MOON STUDIO project
 published: true
-date: 2021-10-19T03:06:08.101Z
+date: 2021-10-19T03:08:06.963Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
 ---
 
-![kotodama_tribe.webp](/kotodama_tribe.webp){.align-right}
+![kotodama_tribe.webp](/kotodama_tribe.webp =30%x){.align-right}
 
 Kotodama Tribe was a project by THE MOON STUDIO, founded by Kaguya Luna and illustrator Mika Pikazo on 15 Nov 2018.
 
