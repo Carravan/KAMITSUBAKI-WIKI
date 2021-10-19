@@ -2,7 +2,7 @@
 title: Kotodama Tride
 description: THE MOON STUDIO project
 published: true
-date: 2021-10-19T04:31:44.454Z
+date: 2021-10-19T04:32:48.438Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=R4sUHomdXok
 
 Pinky Pop Hepburn debuted 30 Dec 2018.
 
-THE MOON STUDIO officially folded on 30 Sep 2019. For reference, Kamitsubaki Studio was formed on 18 Oct 2019.
-tweet, archived: https://web.archive.org/web/20190920113408/https://twitter.com/moonstudio_jp/status/1175009247920152577
+THE MOON STUDIO officially folded on 30 Sep 2019 ([archived tweet](https://web.archive.org/web/20190920113408/https://twitter.com/moonstudio_jp/status/1175009247920152577
+)). For reference, Kamitsubaki Studio was formed on 18 Oct 2019.
 
 Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/taifu) were part of the Kotodama project.
 https://note.com/futashika/n/na5902f5696d9
