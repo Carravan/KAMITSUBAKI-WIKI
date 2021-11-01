@@ -1,8 +1,8 @@
 ---
-title: Kotodama Tride
+title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2021-10-23T07:44:41.073Z
+date: 2021-11-01T11:24:10.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
