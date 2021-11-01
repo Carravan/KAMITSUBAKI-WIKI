@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2021-11-01T11:24:10.280Z
+date: 2021-11-01T11:28:59.313Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -25,6 +25,6 @@ https://note.com/futashika/n/na5902f5696d9
 
 Harusaruhi's first cover is Majo (rap version).
 
-Pinky Pop Hapburn retired on 2021 Jan 8, [youtube annoucement](https://www.youtube.com/watch?v=slUFHTJCA18).
+Pinky Pop Hepburn retired on 2021 Jan 8, [youtube annoucement](https://www.youtube.com/watch?v=slUFHTJCA18).
 
 Kaguya Luna last activies were on 28 Aug 2020 on youtube, and on 2020 Oct 30 on twitter. Now more famously known as P-maru sama, [youtube channel](https://www.youtube.com/c/P%E4%B8%B8%E6%A7%98%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B). Fan club ending on 2021 Nov 31, [tweet](https://twitter.com/KAI_YOU_ed/status/1443780609202024449).
