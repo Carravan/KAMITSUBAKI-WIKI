@@ -2,7 +2,7 @@
 title: .MP
 description: dotMP
 published: true
-date: 2021-10-31T07:35:45.268Z
+date: 2021-11-01T10:57:22.093Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-31T07:35:45.268Z
@@ -22,6 +22,9 @@ https://dotmp.jp/work/402
 
 Kaf third anniversary website
 https://twitter.com/_dotMP/status/1450388605445107718
+
+Kamitsubaki City, Interface Design & Art Direction
+https://youtu.be/i_bacWXHpdw?t=47
 
 # External links
 https://dotmp.jp/
