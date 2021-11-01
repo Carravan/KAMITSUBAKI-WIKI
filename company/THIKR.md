@@ -2,7 +2,7 @@
 title: THINKR
 description: 
 published: true
-date: 2021-10-19T04:49:16.349Z
+date: 2021-11-01T10:51:44.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-19T06:10:24.976Z
@@ -22,11 +22,16 @@ General producer is PIEDPIPER.
 
 Manages virtual artists including VWP group, CIEL, te'resa; artists including Kanzaki, Guiano, DUSTCELL.
 
-# SINSEKAI CITY PROJECT
+## SINSEKAI CITY PROJECT
 
 Members of project include VALIS group, and aru. [Webpage](http://kamitsubaki.jp/project/sinsekai-city-project/). [Twitter](https://twitter.com/SINSEKAI_CITY). [Youtube](https://www.youtube.com/channel/UCTqFLDr_7lgEaZunMn8gu1Q).
 
 Project managed by Kamitsubaki(?).
+
+# Flat Studio
+
+Founded by loundraw on 2019 Jan 11.
+https://twitter.com/loundraw/status/1083664928161050624
 
 [^1]: https://thinkr.jp/company/
 [^2]: https://www.pinterest.jp/pin/430938258095164418/
