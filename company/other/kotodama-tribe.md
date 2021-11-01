@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2021-11-01T11:37:15.420Z
+date: 2021-11-01T11:46:36.062Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -11,6 +11,8 @@ dateCreated: 2021-10-19T03:06:08.101Z
 ![kotodama_tribe.webp](/kotodama_tribe.webp =30%x){.align-right}
 
 Kotodama Tribe was a project by THE MOON STUDIO, which was founded by Kaguya Luna and illustrator Mika Pikazo on 2018 Nov 15.
+
+Sony was involved with the project.^[citation^ ^needed]^
 
 Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 2018 Dec 15 to 2018 Dec 24 in Shibuya, with tagline "その言葉に、魂はあるのか？". Featuring Kaf's song Majo.
 https://www.youtube.com/watch?v=R4sUHomdXok
