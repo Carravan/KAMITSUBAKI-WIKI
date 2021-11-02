@@ -2,7 +2,7 @@
 title: THINKR
 description: 
 published: true
-date: 2021-11-01T10:51:44.671Z
+date: 2021-11-02T06:11:34.684Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-19T06:10:24.976Z
@@ -30,7 +30,7 @@ Project managed by Kamitsubaki(?).
 
 # Flat Studio
 
-Founded by loundraw on 2019 Jan 11.
+2D animation studio. Founded by loundraw on 2019 Jan 11.
 https://twitter.com/loundraw/status/1083664928161050624
 
 [^1]: https://thinkr.jp/company/
