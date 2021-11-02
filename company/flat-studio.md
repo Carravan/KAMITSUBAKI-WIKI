@@ -2,7 +2,7 @@
 title: FLAT STUDIO
 description: 
 published: true
-date: 2021-11-02T06:45:20.457Z
+date: 2021-11-02T07:05:37.056Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T06:45:20.457Z
@@ -48,19 +48,41 @@ https://pie.co.jp/series/4855110/
 
 ## banishment
 
+DUSTCELL's 命の行方 key visuals
+https://www.pixiv.net/en/artworks/89345687
+
 [pixiv](https://www.pixiv.net/en/users/23223750), [twitter](https://twitter.com/yokaibanish)
 
 ## Merrill Macnaut
+
+Illustrator
 
 [pixiv](https://www.pixiv.net/en/users/856869), [twitter](https://twitter.com/k_i0624)
 
 ## 涌元トモタカ
 
+animation director
+
 [homepage](http://wakumoto.work/), [twitter](https://twitter.com/t_wakumoto)
 
 ## asano66
 
+Illustrator
+
 [twitter](https://twitter.com/66asano)
+
+## 石井 龍
+
+Producer and Manager
+
+[twitter](https://twitter.com/ishii_ryu)
+
+# Work
+
+anime film Summer Ghost
+https://anilist.co/anime/130050/Summer-Ghost/
+https://en.wikipedia.org/wiki/Summer_Ghost
+
 
 # External links
 
