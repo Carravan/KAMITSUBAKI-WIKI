@@ -2,7 +2,7 @@
 title: FLAT STUDIO
 description: 
 published: true
-date: 2021-11-02T07:05:37.056Z
+date: 2021-11-02T07:09:33.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T06:45:20.457Z
@@ -17,6 +17,12 @@ One of four studios under THINKR, sister studio of KAMITSUBAKI STUDIO.
 Illustrator. Founded FLAT STUDIO, [tweet](https://twitter.com/loundraw/status/1083664928161050624). Known for illustrations for I Want to Eat Your Pancreas light novel.
 
 [twitter](https://twitter.com/loundraw)
+
+## 石井 龍
+
+Producer and Manager, co-founder of FLAT STUDIO, [tweet](https://twitter.com/ishii_ryu/status/1218383294913339392)
+
+[twitter](https://twitter.com/ishii_ryu)
 
 ## 佐野徹夜
 
@@ -70,12 +76,6 @@ animation director
 Illustrator
 
 [twitter](https://twitter.com/66asano)
-
-## 石井 龍
-
-Producer and Manager
-
-[twitter](https://twitter.com/ishii_ryu)
 
 # Work
 
