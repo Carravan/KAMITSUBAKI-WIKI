@@ -2,7 +2,7 @@
 title: SSS by applibot
 description: 
 published: true
-date: 2021-11-02T10:19:46.822Z
+date: 2021-11-04T09:11:35.519Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T10:19:46.822Z
@@ -25,6 +25,8 @@ Character and costume designer for Kaf and Rim.
 ## 米山舞
 
 Mai, Yoneyama; Illustrator and animator. Animation director in Kill la Kill, desiger and key animator in Promare.
+
+Character design for Asu and Aru.
 
 [homepage](https://yoneyamai.work/) [twitter](https://twitter.com/yoneyamai)
 
