@@ -2,7 +2,7 @@
 title: FLAT STUDIO
 description: 
 published: true
-date: 2021-11-02T07:09:33.194Z
+date: 2021-11-05T11:19:02.224Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T06:45:20.457Z
@@ -15,6 +15,8 @@ One of four studios under THINKR, sister studio of KAMITSUBAKI STUDIO.
 ## loundraw
 
 Illustrator. Founded FLAT STUDIO, [tweet](https://twitter.com/loundraw/status/1083664928161050624). Known for illustrations for I Want to Eat Your Pancreas light novel.
+
+Member of band [CHRONICLE](https://chronicle.city/biography/).
 
 [twitter](https://twitter.com/loundraw)
 
