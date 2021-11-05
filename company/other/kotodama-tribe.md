@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2021-11-01T11:53:01.469Z
+date: 2021-11-05T11:15:38.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -10,11 +10,12 @@ dateCreated: 2021-10-19T03:06:08.101Z
 
 ![kotodama_tribe.webp](/kotodama_tribe.webp =30%x){.align-right}
 
-Kotodama Tribe was a project by THE MOON STUDIO, which was founded by Kaguya Luna and illustrator Mika Pikazo on 2018 Nov 15.
+Kotodama Tribe was a project by THE MOON STUDIO, a studio founded by Kaguya Luna and illustrator Mika Pikazo on 2018 Nov 15.
 
 Sony was involved with the project.^[citation^ ^needed]^
 
-Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 2018 Dec 15 to 2018 Dec 24 in Shibuya, with tagline "その言葉に、魂はあるのか？". Featuring Kaf's song Majo.
+Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 2018 Dec 15 to 2018 Dec 24 in Shibuya, by [Mika Pikazo](https://twitter.com/MikaPikaZo/status/1068068952343961601) and [miche](https://miche-illustrator.jimdofree.com), with the tagline "その言葉に、魂はあるのか？".
+Featuring Kaf's song Majo.
 https://www.youtube.com/watch?v=R4sUHomdXok
 
 Pinky Pop Hepburn debuted on 2018 Dec 30, the second and final character debuted by THE MOON STUDIO.
