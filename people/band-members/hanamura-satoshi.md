@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2022-01-09T05:11:25.294Z
+date: 2022-01-09T05:11:50.004Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T05:11:25.294Z
@@ -14,5 +14,6 @@ Bass player, band master, and arranges multiple songs for kamitsubaki^[https://w
 
 https://www.youtube.com/watch?v=wJl97jzsSTI
 
-# Social Media
+# Links
 [twitter](https://twitter.com/hanamura_sts)
+[MusicBraniz](https://musicbrainz.org/artist/38be044a-82a5-45f9-a259-1a80365ee762/events)
