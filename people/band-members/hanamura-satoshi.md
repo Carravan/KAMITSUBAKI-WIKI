@@ -2,7 +2,7 @@
 title: Hanamura Satoshi
 description: 花村智志 / ハナムラサトシ
 published: true
-date: 2022-01-09T05:12:24.429Z
+date: 2022-01-09T07:15:41.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T05:11:25.294Z
@@ -12,7 +12,7 @@ Bass player, band master, and arranges multiple songs for kamitsubaki^[https://w
 
 # Works
 
-https://www.youtube.com/watch?v=wJl97jzsSTI
+[金木犀にサヨナラを feat. 可不](https://www.youtube.com/watch?v=wJl97jzsSTI)
 
 # Links
 [twitter](https://twitter.com/hanamura_sts)
