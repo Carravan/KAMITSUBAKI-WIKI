@@ -2,19 +2,16 @@
 title: Members
 description: 
 published: true
-date: 2022-01-09T04:51:59.139Z
+date: 2022-01-09T04:54:13.111Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:51:59.139Z
 ---
 
-# Kamitsubaki Studio
+# Virtual Artists
 
-https://kamitsubaki.jp/artist/
+# Artists
 
-# Sinsekai Studio
-
-https://sinsekaistudio.jp/artist/
 
 # Managers
 
@@ -31,3 +28,9 @@ Recurring musicians in live concerts.
 # Others
 
 Other unrelated or ex-kamitsubaki artists
+
+# References
+
+[Kamitsibaki Studio](https://kamitsubaki.jp/artist/)
+
+[Sinsekai Studio](https://sinsekaistudio.jp/artist/)
