@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Trashbin
 description: 
 published: true
-date: 2022-01-09T04:20:51.800Z
+date: 2022-01-09T04:24:53.732Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:20:51.800Z
