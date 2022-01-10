@@ -2,7 +2,7 @@
 title: Letter
 description: 2019 Oct 21
 published: true
-date: 2022-01-10T08:09:39.737Z
+date: 2022-01-10T08:10:22.808Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-10T08:09:39.737Z
@@ -13,7 +13,7 @@ https://twitter.com/eumza1/status/1186221096577585152
 ## Translation
 
 |Original|DeeplL Machine Translation|
-|========|==========================|
+|--------|--------------------------|
 |いつも応援してくださっている皆様へ|To all the people who have always supported us|
 | | |
 |先日KAMITSUBAKISTUDIOに所属させて頂いたDUSTCELLのEMAです。|My name is EMA from DUSTCELL, and I have recently joined KAMITSUBAKISTUDIO.|
