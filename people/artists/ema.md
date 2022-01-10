@@ -2,13 +2,13 @@
 title: EMA
 description: 
 published: true
-date: 2021-10-19T04:06:52.101Z
+date: 2022-01-10T07:40:48.312Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T04:06:52.101Z
 ---
 
-Member of DUSTCELL, vocalist. Previously known as rei sirose, utaite; and 久遠千歳 (Kudou, Chitose), of Nijisanji.
+She is the vocalist for DUSTCELL. It is a well-known fact that she previously went by the name rei sirose as an utaite and 久遠千歳 (Kudou, Chitose) as a liver from Nijisanji. However, it is imperative to respect her choice and limit the discussion just between fans.
 
 # rei sirose
 
