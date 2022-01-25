@@ -2,7 +2,7 @@
 title: Rim
 description: 理芽
 published: true
-date: 2022-01-25T07:27:16.432Z
+date: 2022-01-25T07:27:40.973Z
 tags: vwp, vsinger
 editor: markdown
 dateCreated: 2021-06-12T15:43:56.732Z
@@ -18,8 +18,8 @@ Most famous for her original song [Carnivorous Plant](https://www.youtube.com/wa
 
 ## Songs
 
-| Name                     | JP Name          | Published | Links |
-| ------------------------ | ---------------- | --------- | ----- |
+| Name                     | JP Name          | Published   | Links |
+| ------------------------ | ---------------- | ----------- | ----- |
 | You & Me                 | ユーエンミー     | 2019 Dec 20 | [Youtube](https://www.youtube.com/watch?v=YZxHTW5sJu4) |
 | Carnivorous Plant        | 食虫植物         | 2020 Jan 3  | [Youtube](https://www.youtube.com/watch?v=F9eCSWEJYjk) |
 | Pillow Talk              | ピロウトーク     | 2020 Feb 4  | [Youtube](https://www.youtube.com/watch?v=cUqQRAYEtKg) |
