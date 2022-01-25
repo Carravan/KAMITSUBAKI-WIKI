@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-25T08:41:06.295Z
+date: 2022-01-25T12:58:38.087Z
 tags: people, vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -58,8 +58,11 @@ Kafu, volcaloid based on Kaf in collaboration with CeVIO AI, released on 7 Jul 2
 | | 例えば | Kanzaki Iori | 2021 May 19 | [Youtube](https://www.youtube.com/watch?v=4_fvGiulqk8) | movie "Pompo: The Cinéphile" insert song |
 | | 海に化ける | Kanzaki Iori | 2021 Jun 30 | [Youtube](https://www.youtube.com/watch?v=2BWdQcAvP9k) | response to Devour the Past |
 | | 世惑い子 | Kanzaki Iori | 2021 Oct 14 | [Youtube](https://www.youtube.com/watch?v=13eFWjlus_g) | RPG "Monark" insert song |
+| | 鏡よ鏡 | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
+| Imaginary Friend | イマジナリーフレンド | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
 | | それを世界と言うんだね | Kanzaki Iori | 2021 Nov 30 | [Youtube](https://www.youtube.com/watch?v=w6eWno3iAjk) | for publisher kiminovel |
-
+| | あさひ | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
+| | 飛翔するmeme | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
 
 
 ## Links
