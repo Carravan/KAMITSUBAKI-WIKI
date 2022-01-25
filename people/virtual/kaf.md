@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-25T12:58:38.087Z
+date: 2022-01-25T15:21:10.688Z
 tags: people, vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -13,7 +13,7 @@ dateCreated: 2021-07-18T07:11:55.370Z
 > She is like any eighteen-year-old girl living anywhere in Japan, and she could be anywhere but is found nowhere.
 > She is a next-generation virtual singer with a rare singing voice discovered through a series of accidents.
 
-Vsigner under Kamitsubaki, and part of the group VWP.
+Vsigner under Kamitsubaki, and part of group VWP. Character designed by [Palow](https://kamitsubakilore.com/en/company/other/sss#palow).
 
 <!--To be formatted-->
 
@@ -32,7 +32,7 @@ Kafu, volcaloid based on Kaf in collaboration with CeVIO AI, released on 7 Jul 2
 
 | Name | JP Name | Written by | Published | Links | Notes |
 | ---- | ------- | ---------- | --------- | ----- | ----- | 
-| Intertwined | 糸 | Kanzaki Iori | 2018 Dec 6 | [Youtube](https://www.youtube.com/watch?v=3Wtx6k2vInU) | |
+| Intertwined | 糸 | [Kanzaki Iori](/people/artists/kanzaki-iori) | 2018 Dec 6 | [Youtube](https://www.youtube.com/watch?v=3Wtx6k2vInU) | |
 | Heart & Trick | 心臓と絡繰 | Kanzaki Iori | 2018 Dec 28 | [Youtube](https://www.youtube.com/watch?v=hcm1LGOxJbc) | |
 | The Witch | 魔女 | Kanzaki Iori | 2019 Jan 9 | [Youtube](https://www.youtube.com/watch?v=AqwFHfsAlx0) | |
 | Just forget about it | 忘れてしまえ | Kanzaki Iori | 2019 Jan 31 | [Youtube](https://www.youtube.com/watch?v=2Nj1l-S2FJU) | |
