@@ -2,7 +2,7 @@
 title: Isekai Joucho
 description: Isekai Joucho / ヰ世界情緒
 published: true
-date: 2022-01-25T08:10:02.758Z
+date: 2022-01-26T15:11:29.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z
@@ -18,7 +18,7 @@ Anemos^[http://kamitsubaki.jp/words/page/3/], the flower hairpins / creatures se
 
 | Name | JP Name | Written by | Published | Links |
 | ---- | ------- | ---------- | --------- | ----- |
-| Waltz of Story | 物語りのワルツ | samayuzame | 2020 Feb 23 | [Youtube](https://www.youtube.com/watch?v=Kz424oVx9_o) |
+| Waltz of Story | 物語りのワルツ | [samayuzame](/people/other/samayuzame) | 2020 Feb 23 | [Youtube](https://www.youtube.com/watch?v=Kz424oVx9_o) |
 | | ジオラマドラマ | samayuzame | 2020 Apr 27 | [Youtube](https://www.youtube.com/watch?v=ftCqxjpxdc8) |
 | Hydrangea | ハイドレンジア | [Toukasa](https://twitter.com/toukasa_) | 2020 Jul 16 | [Youtube](https://www.youtube.com/watch?v=lqTS5eaEhbI) |
 | | いろはに咲きて | samayuzame | 2020 Jul 30 | [Youtube](https://www.youtube.com/watch?v=EiPZenIQZa0) |
