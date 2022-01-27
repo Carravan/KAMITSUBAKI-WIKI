@@ -1,8 +1,8 @@
 ---
-title: Shoma Ito
+title: Ito Shoma
 description: 伊藤翔磨
 published: true
-date: 2021-11-02T14:40:55.886Z
+date: 2022-01-27T06:32:22.228Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T10:26:38.974Z
