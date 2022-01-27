@@ -2,13 +2,13 @@
 title: Harusaruhi
 description: 春猿火
 published: true
-date: 2022-01-27T08:43:41.111Z
+date: 2022-01-27T14:19:30.839Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-08-30T11:11:50.763Z
 ---
 
-Member of VWP.
+Member of VWP. Character design by [Hotake Fujimaru](https://twitter.com/hotake6379).
 
 1st one man live on 27th Aug 2021.
 
