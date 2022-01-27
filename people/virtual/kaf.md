@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-27T11:26:32.147Z
+date: 2022-01-27T11:54:49.535Z
 tags: people, vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -29,41 +29,86 @@ Kafu, volcaloid based on Kaf in collaboration with CeVIO AI, released on 7 Jul 2
 
 ## Songs
 
+### Music Videos
 
-| Name | Translation | Written by | Published | Links | Notes |
-| ---- | ----------- | ---------- | --------- | ----- | ----- | 
-| 糸               | Intertwined      | [Kanzaki Iori](/people/artists/kanzaki-iori) | 2018 Dec 6 | [Youtube](https://www.youtube.com/watch?v=3Wtx6k2vInU) | |
-| 心臓と絡繰       | Heart & Trick    | Kanzaki Iori | 2018 Dec 28 | [Youtube](https://www.youtube.com/watch?v=hcm1LGOxJbc) | |
-| 魔女             | The Witch        | Kanzaki Iori | 2019 Jan 9 | [Youtube](https://www.youtube.com/watch?v=AqwFHfsAlx0) | |
-| 忘れてしまえ     | Just forget about it | Kanzaki Iori | 2019 Jan 31 | [Youtube](https://www.youtube.com/watch?v=2Nj1l-S2FJU) | |
-| 雛鳥             |                  | Kanzaki Iori | 2019 Mar 22 | [Youtube](https://www.youtube.com/watch?v=M1RIUrgJqWw) | |
-| 過去を喰らう     | Devour the Past  | Kanzaki Iori | 2019 Jun 5 | [Youtube](https://www.youtube.com/watch?v=tMKrECxEpq8) | yeet |
-| 夜が降り止む前に | | Kanzaki Iori | 2019 Jun 28 | [Youtube](https://www.youtube.com/watch?v=dledRqPTNT8) | |
-| そして花になる   | | Kanzaki Iori | 2019 Aug 1 | [Youtube](https://www.youtube.com/watch?v=y6TGSY9Zll0) | |
-| quiz             | | Kanzaki Iori | 2019 Aug 6 | [Youtube](https://www.youtube.com/watch?v=n0ov2G-_UvU) | |
-| 夜行バスにて     | In the Night Bus | Kanzaki Iori | 2019 Aug 14 | [Youtube](https://www.youtube.com/watch?v=RDnArlYduBs) | |
-| 不可解           | Incomprehensible | Kanzaki Iori | 2019 Sep 12 | [Youtube](https://www.youtube.com/watch?v=NDOJZSG9SPU) | Fukakai live ver. |
-| Re:HEROINES      |                  | Kanzaki Iori | 2019 Sep 17 | [Youtube](https://www.youtube.com/watch?v=tiXLsDQ0uzM) | RPG "47 HEROINES" theme songs |
-| エリカ           | Erica            | Kanzaki Iori | 2019 Sep 24 | [Youtube](https://www.youtube.com/watch?v=VPDXSn68uK0) | |
-| 未確認少女進行形 | Undefined Girl in Continous Tense | Kanzaki Iori | 2019 Dec 20 | [Youtube](https://www.youtube.com/watch?v=5Na4F98SHLk) | |
-| 私論理           | Watashi Ronri / My Philosophy | Kanzaki Iori, arranged by Hideki Ataka | 2020 Jan 8 | [Youtube](https://www.youtube.com/watch?v=Z6wEJLnNxMs) | |
-| 戸惑いテレパシー |                  | Kanzaki Iori | 2020 Jun 8 | [Youtube](https://www.youtube.com/watch?v=3Dr91z1-Iug) | for art exhibition "HAYABUSA EXPERIENCE by 3.5D × docomo" |
-| 危ノーマル       | ABnormal         | Kanzaki Iori | 2020 May 11 | [Youtube](https://www.youtube.com/watch?v=bmptCjSFEfg) | "ZONe" energy drink immersive song collaboration |
-| アンサー         | Answer           | Kanzaki Iori | 2020 Jul 8 | [Youtube](https://www.youtube.com/watch?v=V0Olmwnnpj8) | |
-| 景色             | | Kanzaki Iori | 2020 Jul 22 | [Youtube](https://www.youtube.com/watch?v=46HgoDkRCns) | ED for Netflix anime "Japan Sinks: 2020" |
-| 畢生よ           | | Kanzaki Iori | 2020 Aug 13 | [Youtube](https://www.youtube.com/watch?v=v9uRKXJeYfI) | PV theme song for LN "俺の残機を投下します" by 山田悠介 |
-| 彷徨い           | | Kanzaki Iori | 2020 Oct 18 | [Youtube](https://www.youtube.com/watch?v=oBP-tTfSp8w) | |
-| メルの黄昏       | | Kanzaki Iori | 2020 Nov 18 | [Youtube](https://www.youtube.com/watch?v=zQZVvLsw4Gw) | for PC product DAIV Powered by mouse |
-| ソレカラ         | | Mizuno Atsu | 2021 Mar 18 | [Youtube](https://www.youtube.com/watch?v=y2Vyd0su4ic) | for publisher kiminovel |
-| 例えば           | | Kanzaki Iori | 2021 May 19 | [Youtube](https://www.youtube.com/watch?v=4_fvGiulqk8) | movie "Pompo: The Cinéphile" insert song |
-| 海に化ける       | | Kanzaki Iori | 2021 Jun 30 | [Youtube](https://www.youtube.com/watch?v=2BWdQcAvP9k) | response to Devour the Past |
-| 世惑い子         | | Kanzaki Iori | 2021 Oct 14 | [Youtube](https://www.youtube.com/watch?v=13eFWjlus_g) | RPG "Monark" insert song |
-| 鏡よ鏡           | | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
-| イマジナリーフレンド | Imaginary Friend | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
-| それを世界と言うんだね | | Kanzaki Iori | 2021 Nov 30 | [Youtube](https://www.youtube.com/watch?v=w6eWno3iAjk) | for publisher kiminovel |
-| あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
-| 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
+| #   | Name | Translation | Written by | Published | Links | Notes |
+| --- | ---- | ----------- | ---------- | --------- | ----- | ----- | 
+| #06 | 糸               | Intertwined      | [Kanzaki Iori](/people/artists/kanzaki-iori) | 2018 Dec 6 | [Youtube](https://www.youtube.com/watch?v=3Wtx6k2vInU) | |
+| #09 | 心臓と絡繰       | Heart & Trick    | Kanzaki Iori | 2018 Dec 28 | [Youtube](https://www.youtube.com/watch?v=hcm1LGOxJbc) | |
+| #11 | 魔女             | The Witch        | Kanzaki Iori | 2019 Jan 9 | [Youtube](https://www.youtube.com/watch?v=AqwFHfsAlx0) | |
+| #13 | 忘れてしまえ     | Just forget about it | Kanzaki Iori | 2019 Jan 31 | [Youtube](https://www.youtube.com/watch?v=2Nj1l-S2FJU) | |
+| #17 | 雛鳥             |                  | Kanzaki Iori | 2019 Mar 22 | [Youtube](https://www.youtube.com/watch?v=M1RIUrgJqWw) | |
+| #22 | 過去を喰らう     | Devour the Past  | Kanzaki Iori | 2019 Jun 5 | [Youtube](https://www.youtube.com/watch?v=tMKrECxEpq8) | yeet |
+| #25 | 夜が降り止む前に | | Kanzaki Iori | 2019 Jun 28 | [Youtube](https://www.youtube.com/watch?v=dledRqPTNT8) | |
+| #27 | そして花になる   | | Kanzaki Iori | 2019 Aug 1 | [Youtube](https://www.youtube.com/watch?v=y6TGSY9Zll0) | |
+| #29 | quiz             | | Kanzaki Iori | 2019 Aug 6 | [Youtube](https://www.youtube.com/watch?v=n0ov2G-_UvU) | |
+| #30 | 夜行バスにて     | In the Night Bus | Kanzaki Iori | 2019 Aug 14 | [Youtube](https://www.youtube.com/watch?v=RDnArlYduBs) | |
+| #36 | 不可解           | Incomprehensible | Kanzaki Iori | 2019 Sep 12 | [Youtube](https://www.youtube.com/watch?v=NDOJZSG9SPU) | Fukakai live ver. |
+| #37 | Re:HEROINES      |                  | Kanzaki Iori | 2019 Sep 17 | [Youtube](https://www.youtube.com/watch?v=tiXLsDQ0uzM) | RPG "47 HEROINES" theme songs |
+| #38 | エリカ           | Erica            | Kanzaki Iori | 2019 Sep 24 | [Youtube](https://www.youtube.com/watch?v=VPDXSn68uK0) | |
+| #44 | 未確認少女進行形 | Undefined Girl in Continous Tense | Kanzaki Iori | 2019 Dec 20 | [Youtube](https://www.youtube.com/watch?v=5Na4F98SHLk) | |
+| #49 | 私論理           | Watashi Ronri / My Philosophy | Kanzaki Iori, arranged by Hideki Ataka | 2020 Jan 8 | [Youtube](https://www.youtube.com/watch?v=Z6wEJLnNxMs) | |
+| #56 | 戸惑いテレパシー |                  | Kanzaki Iori | 2020 Jun 8 | [Youtube](https://www.youtube.com/watch?v=3Dr91z1-Iug) | for art exhibition "HAYABUSA EXPERIENCE by 3.5D × docomo" |
+| #57 | 危ノーマル       | ABnormal         | Kanzaki Iori | 2020 May 11 | [Youtube](https://www.youtube.com/watch?v=bmptCjSFEfg) | "ZONe" energy drink immersive song collaboration |
+| #58 | アンサー         | Answer           | Kanzaki Iori | 2020 Jul 8 | [Youtube](https://www.youtube.com/watch?v=V0Olmwnnpj8) | Black Clover 11th cour ED |
+| #60 | 景色             | | Kanzaki Iori | 2020 Jul 22 | [Youtube](https://www.youtube.com/watch?v=46HgoDkRCns) | ED for Netflix anime "Japan Sinks: 2020" |
+| #61 | 畢生よ           | | Kanzaki Iori | 2020 Aug 13 | [Youtube](https://www.youtube.com/watch?v=v9uRKXJeYfI) | PV theme song for LN "俺の残機を投下します" by 山田悠介 |
+| #67 | 彷徨い           | | Kanzaki Iori | 2020 Oct 18 | [Youtube](https://www.youtube.com/watch?v=oBP-tTfSp8w) | |
+| #68 | メルの黄昏       | | Kanzaki Iori | 2020 Nov 18 | [Youtube](https://www.youtube.com/watch?v=zQZVvLsw4Gw) | for PC product DAIV Powered by mouse |
+| #77 | ソレカラ         | | Mizuno Atsu | 2021 Mar 18 | [Youtube](https://www.youtube.com/watch?v=y2Vyd0su4ic) | for publisher kiminovel |
+| #80 | 例えば           | | Kanzaki Iori | 2021 May 19 | [Youtube](https://www.youtube.com/watch?v=4_fvGiulqk8) | movie "Pompo: The Cinéphile" insert song |
+| #83 | 海に化ける       | | Kanzaki Iori | 2021 Jun 30 | [Youtube](https://www.youtube.com/watch?v=2BWdQcAvP9k) | response to Devour the Past (MV #22) |
+| #87 | 世惑い子         | | Kanzaki Iori | 2021 Oct 14 | [Youtube](https://www.youtube.com/watch?v=13eFWjlus_g) | RPG "Monark" insert song |
+| #89.5 | 鏡よ鏡           | | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
+| #90.5 | イマジナリーフレンド | Imaginary Friend | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
+| #91 | それを世界と言うんだね | | Kanzaki Iori | 2021 Nov 30 | [Youtube](https://www.youtube.com/watch?v=w6eWno3iAjk) | for publisher kiminovel |
+| #92.5 | あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
+| #95.5 | 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
 
+### Observe
+
+Observe (観測) is Kaf's first album, released on 2019 Sep 11.
+
+| #  | Name                | Translation         | Written by   | Notes  |
+| -- | ------------------- | ------------------- | ------------ | ------ |
+| 1  | 確信 -Instrumental- |                     |              |        |
+| 2  | 糸                  | Intertwined         | Kanzaki Iori | MV #06 |
+| 3  | 忘れてしまえ        | Just forget about it| Kanzaki Iori | MV #13 |
+| 4  | 心臓と絡繰          | Heart & Trick       | Kanzaki Iori | MV #09 |
+| 5  | quiz                |                     | Kanzaki Iori | MV #29 |
+| 6  | Re:HEROINES         |                     | Kanzaki Iori | MV #37 |
+| 7  | 夜行バスにて        | In the Night Bus    | Kanzaki Iori | MV #30 |
+| 8  | 未確認少女進行形    | Undefined Girl in Continous Tense | Kanzaki Iori | MV #44 |
+| 9  | 過去を喰らう        | Devour the Past     | Kanzaki Iori | MV #22 |
+| 10 | エリカ              | Erica               | Kanzaki Iori | MV #38 |
+| 11 | 雛鳥                |                     | Kanzaki Iori | MV #17 |
+| 12 | 夜が降り止む前に    |                     | Kanzaki Iori | MV #25 |
+| 13 | 不可解              | Incomprehensible    | Kanzaki Iori | MV #36 |
+| 14 | そして花になる      |                     | Kanzaki Iori | MV #27 |
+| 15 | The end of prologue -Instrumental- |      | Kanzaki Iori |        |
+
+### Magic
+
+Magic (魔法) is Kaf's second major album, released on 2020 Dec 16.
+
+| #  | Name                | Translation         | Written by   | Notes  |
+| -- | ------------------- | ------------------- | ------------ | ------ |
+| 1  | 魔法のない世界 (instrumental) | World without Magic |              |        |
+| 2  | 危ノーマル          |                     | Kanzaki Iori | MV #57 |
+| 3  | アンサー            | Answer              | Kanzaki Iori | MV #58 |
+| 4  | 私論理              | Watashi Ronri       | Kanzaki Iori | MV #49 |
+| 5  | 戸惑いテレパシー    |                     | Kanzaki Iori | MV #56 |
+| 6  | 彷徨い              |                     | Kanzaki Iori | MV #67 |
+| 7  | 畢生よ              | This Lifetime       | Kanzaki Iori | MV #61 |
+| 8  | 花女                | Flower Girl         | Kanzaki Iori | |
+| 9  | メルの黄昏          |                     | Kanzaki Iori | MV #68 |
+| 10 | 痛みを              |                     | Kanzaki Iori | |
+| 11 | モンタージュ        | Montage             | Kanzaki Iori | |
+| 12 | 景色                |                     | Kanzaki Iori | MV #60 |
+| 13 | 帰り路              |                     | Kanzaki Iori | |
+| 14 | まほう feat. 理芽   |                     | Kanzaki Iori | |
+| 14 | 世界線は分岐する (instrumental) |         | Kanzaki Iori | |
 
 ## Links
 [Youtube Channel](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
+[MusicBrainz](https://musicbrainz.org/artist/47ba70a2-d040-4265-bf52-86b9ef28c2c9)
