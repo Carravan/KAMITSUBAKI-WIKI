@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2022-01-28T16:43:31.949Z
+date: 2022-01-28T16:44:01.159Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -25,7 +25,7 @@ THE MOON STUDIO officially folded on 2019 Sep 30^[https://web.archive.org/web/20
 
 Kamitsubaki Studio officially formed on 2019 Oct 18, shortly after MOON STUDIO folded.
 
-Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/taifu) were part of the Kotodama project. This is officially confirmed in a note by Piedpiper, that was released after Haru's first one man live and Taifu's departure from her management role:
+Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/managers/taifu) were part of the Kotodama project. This is officially confirmed in a note by Piedpiper, that was released after Haru's first one man live and Taifu's departure from her management role:
 https://note.com/futashika/n/na5902f5696d9
 
 Harusaruhi's first cover is Majo (rap version)^[https://www.youtube.com/watch?v=bYJb8jNi_LQ].
