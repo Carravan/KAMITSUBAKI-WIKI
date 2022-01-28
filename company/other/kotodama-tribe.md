@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2021-11-05T11:17:17.844Z
+date: 2022-01-28T16:43:31.949Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z
@@ -14,23 +14,29 @@ Kotodama Tribe was a project by THE MOON STUDIO, a studio founded by Kaguya Luna
 
 Sony was involved with the project.^[citation^ ^needed]^
 
-Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 2018 Dec 15 to 2018 Dec 24 in Shibuya, by [Mika Pikazo](https://twitter.com/MikaPikaZo/status/1068068952343961601) and [miche](https://miche-illustrator.jimdofree.com), with the tagline "その言葉に、魂はあるのか？".
-Featuring Kaf's song Majo.
-https://www.youtube.com/watch?v=R4sUHomdXok
+Art exhibition "KOTODAMA TRIBE ver.0.5" was hosted from 2018 Dec 15 to 2018 Dec 24 in Shibuya, organized by [Mika Pikazo](https://twitter.com/MikaPikaZo/status/1068068952343961601) and [miche](https://miche-illustrator.jimdofree.com), with the tagline "その言葉に、魂はあるのか？".
+The exhibition featured Kaf's song Majo^[https://www.youtube.com/watch?v=R4sUHomdXok].
 
-Pinky Pop Hepburn debuted on 2018 Dec 30, the second and final character debuted by THE MOON STUDIO.
+Pinky Pop Hepburn debuted on 2018 Dec 30. She's the second and final character debuted by THE MOON STUDIO.
 
-THE MOON STUDIO officially folded on 2019 Sep 30, [archived tweet](https://web.archive.org/web/20190920113408/https://twitter.com/moonstudio_jp/status/1175009247920152577
-). For reference, Kamitsubaki Studio was formed on 2019 Oct 18.
+THE MOON STUDIO officially folded on 2019 Sep 30^[https://web.archive.org/web/20190920113408/https://twitter.com/moonstudio_jp/status/1175009247920152577]. 
 
-Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/taifu) were part of the Kotodama project.
+## Relation to Kamitsubaki
+
+Kamitsubaki Studio officially formed on 2019 Oct 18, shortly after MOON STUDIO folded.
+
+Harusaruhi, Isekaijoucho, and their former manager [Taifu](/people/taifu) were part of the Kotodama project. This is officially confirmed in a note by Piedpiper, that was released after Haru's first one man live and Taifu's departure from her management role:
 https://note.com/futashika/n/na5902f5696d9
 
-Harusaruhi's first cover is Majo (rap version).
+Harusaruhi's first cover is Majo (rap version)^[https://www.youtube.com/watch?v=bYJb8jNi_LQ].
 
-Pinky Pop Hepburn retired on 2021 Jan 8, [youtube annoucement](https://www.youtube.com/watch?v=slUFHTJCA18).
+The first song sung by group VWP was Kotodama^[https://twitter.com/KOKO__virtual/status/1484501731572879362].
 
-Kaguya Luna last activies were on 2020 Aug 28 on youtube, and on 2020 Oct 30 on twitter. Fan club ending on 2021 Nov 31, [tweet](https://twitter.com/KAI_YOU_ed/status/1443780609202024449). Now more famously known as P-maru sama, [youtube channel](https://www.youtube.com/c/P%E4%B8%B8%E6%A7%98%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B).
+## Epilogue
+
+Pinky Pop Hepburn retired on 2021 Jan 8^[https://www.youtube.com/watch?v=slUFHTJCA18].
+
+Kaguya Luna last activies were on 2020 Aug 28 on youtube, and on 2020 Oct 30 on twitter. Fan club ending on 2021 Nov 31^[https://twitter.com/KAI_YOU_ed/status/1443780609202024449]. Now more famously known as P-maru sama, [youtube channel](https://www.youtube.com/c/P%E4%B8%B8%E6%A7%98%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B).
 
 # External links
 
