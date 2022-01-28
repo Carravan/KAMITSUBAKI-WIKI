@@ -2,7 +2,7 @@
 title: Through the Pain
 description: 痛みを itami o - Kaf
 published: true
-date: 2022-01-28T06:21:05.729Z
+date: 2022-01-28T06:21:20.008Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T12:47:54.819Z
@@ -14,7 +14,7 @@ Lyrics and Composition by Kanzaki Iori
 
 # Lyrics
 
-## Languages
+## Languages {.tabset}
 
 ### Japanese
 
