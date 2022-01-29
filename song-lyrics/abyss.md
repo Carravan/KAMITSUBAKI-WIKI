@@ -2,15 +2,15 @@
 title: Abyss
 description: 深淵 shinnen - Isekaijoucho & Kaf
 published: true
-date: 2021-06-22T08:12:40.924Z
+date: 2022-01-29T10:13:53.965Z
 tags: kaf, isekaijoucho
 editor: markdown
 dateCreated: 2021-06-22T08:12:40.924Z
 ---
 
-Isekai Joucho's 8th original song.
+Isekaijoucho's [8th](/people/virtual/isekaijoucho#music-videos) original song.
 
-Written, composed, and arranged by Kashi Moimi. Mix by ＄ＫＩＹＡＫＩ＄ＫＩ.
+Written, composed, and arranged by [Kashi Moimi](/people/artists/kashi-moimi). Mix by ＄ＫＩＹＡＫＩ＄ＫＩ.
 
 Used as theme song for mobile game Black Surge Night.
 
