@@ -2,7 +2,7 @@
 title: Isekaijoucho
 description: ヰ世界情緒
 published: true
-date: 2022-01-29T10:09:02.441Z
+date: 2022-01-29T10:14:16.045Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z
@@ -27,7 +27,7 @@ Anemos^[http://kamitsubaki.jp/words/page/3/], the creatures seems to be sentient
 | #07 | とめどなき白情 | Endless Whiteness | Harumaki Gohan | 2020 Sep 26 | [Youtube](https://www.youtube.com/watch?v=e0ZfB1o-Msw) |
 | #08 | 斯く美しき造花 |                   | Toukasa     | 2020 Nov 27 | [Youtube](https://www.youtube.com/watch?v=9dK3lA-GEc0) |
 | #10 | シリウスの心臓 | Heart of Sirius   | 傘村トータ  | 2020 Dec 26 | [Youtube](https://www.youtube.com/watch?v=UKZt1vq8bKI) |
-| #13 | 深淵 feat.花譜 | shin'en           | [Kashi Moimi](/people/artists/kashi-moimi) | 2021 Jun 18 | [Youtube](https://www.youtube.com/watch?v=kE9YpkWwHIo) |
+| #13 | 深淵 feat.花譜 | [Abyss](/song-lyrics/abyss)           | [Kashi Moimi](/people/artists/kashi-moimi) | 2021 Jun 18 | [Youtube](https://www.youtube.com/watch?v=kE9YpkWwHIo) |
 | #14 | ヰ世界の宝石譚 |                   | sasakure.UK | 2021 Jul 12 | [Youtube](https://www.youtube.com/watch?v=hcqXjcO791s) |
 | #15 | ディメンション |                   | [柊マグネタイト](https://twitter.com/hiiragi_magne) | 2021 Oct 13 | [Youtube](https://www.youtube.com/watch?v=-x1Tyg2uvVM) |
 | #18 | 誰もいない絵で |                   | [rionos](https://twitter.com/rionos) | 2021 Oct 23 | [Youtube](https://www.youtube.com/watch?v=LgR34fFacVw) |
