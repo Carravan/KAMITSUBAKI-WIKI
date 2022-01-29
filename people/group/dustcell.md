@@ -2,13 +2,13 @@
 title: DUSTCELL
 description: 
 published: true
-date: 2022-01-09T14:06:38.273Z
+date: 2022-01-29T03:50:54.249Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T14:06:38.273Z
 ---
 
-Electro music unit, the two memebers are vocalist [EMA](/people/artist/ema), and composer Misumi.
+Electro music unit, the two memebers are vocalist [EMA](/people/artists/ema), and composer Misumi.
 
 # Concerts
 
