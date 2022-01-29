@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-29T04:22:35.102Z
+date: 2022-01-29T05:34:14.952Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -13,19 +13,21 @@ dateCreated: 2021-07-18T07:11:55.370Z
 > She is like any eighteen-year-old girl living anywhere in Japan, and she could be anywhere but is found nowhere.
 > She is a next-generation virtual singer with a rare singing voice discovered through a series of accidents.
 
-Vsigner under Kamitsubaki, and part of group VWP. Character designed by [Palow](https://kamitsubakilore.com/en/company/other/sss#palow).
+**Kaf** is a virtual signer, member of Kamitsubaki Studio, and part of the group [VWP](/people/group/vwp). Character designed by [Palow](https://kamitsubakilore.com/en/company/other/sss#palow).
+
+Performed Black Clover ED11 "Answer" ([Youtube](https://www.youtube.com/watch?v=V0Olmwnnpj8)); and Netflix original "Japan Sinks 2020" ED "景色" ([Youtube](https://www.youtube.com/watch?v=46HgoDkRCns)).
 
 <!--To be formatted-->
 
-First video #01 released on [Youtube](https://www.youtube.com/watch?v=LZWPYAqDtGs) on 18 Oct 2018.  First cover, of volcaloid song [Deathly Loneliness Attacks](https://www.youtube.com/watch?v=3Mgfv-kYc10) by 一二三, released on [Youtube](https://www.youtube.com/watch?v=jpwy7kP8Pps) 31 Oct 2018. First original Song, Heart & Trick, released on [Youtube](https://www.youtube.com/watch?v=hcm1LGOxJbc) on 28 Dec 2018.
+<!-- First video #01 released on [Youtube](https://www.youtube.com/watch?v=LZWPYAqDtGs) on 18 Oct 2018.  First cover, of volcaloid song [Deathly Loneliness Attacks](https://www.youtube.com/watch?v=3Mgfv-kYc10) by 一二三, released on [Youtube](https://www.youtube.com/watch?v=jpwy7kP8Pps) 31 Oct 2018. First original Song, Intertwined-->
 
-First album 観測 releasd on 11 Sep 2019 ([Spotify](https://open.spotify.com/album/1UtxjH5hbvomzvMj8reKI2)). Second album 魔法 released on 25 Nov 2020 ([Spotify](https://open.spotify.com/album/4GmTRxRhRzkPDybCcANTvt)).
+Released two major albums - 観測 on 2019 Sep 11, and 魔法 on 2020 Nov 25, a cover live album "I SCREAM LIVE", and 2 remix albums - 観測γ and 魔法γ.
 
-First one-man live Fukakai performed on 1 Oct 2019. Second one-man live Fukakai2 Q1 streamed on 10 Oct 2020; Fukakai2 Q2 streamed on youtube on 13 Mar 2021; Fukakai2 REBUILDING performed in 豊洲PIT on 11,12 Jun 2021.
+Held 7 one man lives, first being "Fukakai" on 2019 Oct 1 held in LIQUIDROOM, crowdfunded with an original goal of 5 million yen, ended reaching 40 million yen.
 
-Performed Black Clover ED11 Answer (eps 129-140) ([Youtube](https://www.youtube.com/watch?v=V0Olmwnnpj8)); Netflix original Japan Sinks 2020 ending 景色 ([Youtube](https://www.youtube.com/watch?v=46HgoDkRCns)).
+<!--First one-man live Fukakai performed on 1 Oct 2019. Second one-man live Fukakai2 Q1 streamed on 10 Oct 2020; Fukakai2 Q2 streamed on youtube on 13 Mar 2021; Fukakai2 REBUILDING performed in 豊洲PIT, on 11,12 Jun 2021.-->
 
-Kafu, volcaloid based on Kaf in collaboration with CeVIO AI, released on 7 Jul 2021.
+Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration with Kamitsubaki Studio, released on 2021 Jul 7.
 
 ## Songs
 
@@ -87,6 +89,10 @@ Observe (観測) is Kaf's first album, released on 2019 Sep 11.
 | 14 | そして花になる      |                     | Kanzaki Iori | MV #27 |
 | 15 | The end of prologue -Instrumental- |      | Kanzaki Iori |        |
 
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nD7MICaaeXtZhdlAnA-RoFyrcjyrlnO4M)
+[Spotify](https://open.spotify.com/album/1UtxjH5hbvomzvMj8reKI2)
+[MusicBrainz](https://musicbrainz.org/release-group/ae8bbb40-d622-476f-98c5-dadf25f4a465)
+
 ### Magic
 
 Magic (魔法) is Kaf's second major album, released on 2020 Dec 16.
@@ -108,6 +114,10 @@ Magic (魔法) is Kaf's second major album, released on 2020 Dec 16.
 | 13 | 帰り路              |                     | Kanzaki Iori | |
 | 14 | まほう feat. 理芽   |                     | Kanzaki Iori | |
 | 14 | 世界線は分岐する (instrumental) |         | Kanzaki Iori | |
+
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lChRRz0V1zdkk-bAmHHHzm8mgfuJz1gcA)
+[Spotify](https://open.spotify.com/album/4GmTRxRhRzkPDybCcANTvt)
+[MusicBrainz](https://musicbrainz.org/release-group/d6119286-4fae-45ca-9f95-de8661cdcaf2)
 
 ## Links
 [Youtube Channel](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
