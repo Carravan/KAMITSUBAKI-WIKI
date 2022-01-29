@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-29T05:34:14.952Z
+date: 2022-01-29T10:33:16.076Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -37,13 +37,13 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 | --- | ---- | ----------- | ---------- | --------- | ----- | ----- | 
 | #06 | 糸               | Intertwined      | [Kanzaki Iori](/people/artists/kanzaki-iori) | 2018 Dec 6 | [Youtube](https://www.youtube.com/watch?v=3Wtx6k2vInU) | |
 | #09 | 心臓と絡繰       | Heart & Trick    | Kanzaki Iori | 2018 Dec 28 | [Youtube](https://www.youtube.com/watch?v=hcm1LGOxJbc) | |
-| #11 | 魔女             | The Witch        | Kanzaki Iori | 2019 Jan 9 | [Youtube](https://www.youtube.com/watch?v=AqwFHfsAlx0) | |
+| #11 | 魔女             | [Witch](/song-lyrics/majo)        | Kanzaki Iori | 2019 Jan 9 | [Youtube](https://www.youtube.com/watch?v=AqwFHfsAlx0) | |
 | #13 | 忘れてしまえ     | Just forget about it | Kanzaki Iori | 2019 Jan 31 | [Youtube](https://www.youtube.com/watch?v=2Nj1l-S2FJU) | |
-| #17 | 雛鳥             |                  | Kanzaki Iori | 2019 Mar 22 | [Youtube](https://www.youtube.com/watch?v=M1RIUrgJqWw) | |
+| #17 | 雛鳥             | [Baby Bird](/song-lyrics/baby-bird) | Kanzaki Iori | 2019 Mar 22 | [Youtube](https://www.youtube.com/watch?v=M1RIUrgJqWw) | |
 | #22 | 過去を喰らう     | Devour the Past  | Kanzaki Iori | 2019 Jun 5 | [Youtube](https://www.youtube.com/watch?v=tMKrECxEpq8) | yeet |
 | #25 | 夜が降り止む前に | | Kanzaki Iori | 2019 Jun 28 | [Youtube](https://www.youtube.com/watch?v=dledRqPTNT8) | |
 | #27 | そして花になる   | | Kanzaki Iori | 2019 Aug 1 | [Youtube](https://www.youtube.com/watch?v=y6TGSY9Zll0) | |
-| #29 | quiz             | | Kanzaki Iori | 2019 Aug 6 | [Youtube](https://www.youtube.com/watch?v=n0ov2G-_UvU) | |
+| #29 | quiz             | [quiz](/song-lyrics/quiz) | Kanzaki Iori | 2019 Aug 6 | [Youtube](https://www.youtube.com/watch?v=n0ov2G-_UvU) | |
 | #30 | 夜行バスにて     | In the Night Bus | Kanzaki Iori | 2019 Aug 14 | [Youtube](https://www.youtube.com/watch?v=RDnArlYduBs) | |
 | #36 | 不可解           | Incomprehensible | Kanzaki Iori | 2019 Sep 12 | [Youtube](https://www.youtube.com/watch?v=NDOJZSG9SPU) | Fukakai live ver. |
 | #37 | Re:HEROINES      |                  | Kanzaki Iori | 2019 Sep 17 | [Youtube](https://www.youtube.com/watch?v=tiXLsDQ0uzM) | RPG "47 HEROINES" theme songs |
@@ -77,7 +77,7 @@ Observe (観測) is Kaf's first album, released on 2019 Sep 11.
 | 2  | 糸                  | Intertwined         | Kanzaki Iori | MV #06 |
 | 3  | 忘れてしまえ        | Just forget about it| Kanzaki Iori | MV #13 |
 | 4  | 心臓と絡繰          | Heart & Trick       | Kanzaki Iori | MV #09 |
-| 5  | quiz                |                     | Kanzaki Iori | MV #29 |
+| 5  | quiz                | [quiz](/song-lyrics/quiz) | Kanzaki Iori | MV #29 |
 | 6  | Re:HEROINES         |                     | Kanzaki Iori | MV #37 |
 | 7  | 夜行バスにて        | In the Night Bus    | Kanzaki Iori | MV #30 |
 | 8  | 未確認少女進行形    | Undefined Girl in Continous Tense | Kanzaki Iori | MV #44 |
@@ -106,9 +106,9 @@ Magic (魔法) is Kaf's second major album, released on 2020 Dec 16.
 | 5  | 戸惑いテレパシー    |                     | Kanzaki Iori | MV #56 |
 | 6  | 彷徨い              |                     | Kanzaki Iori | MV #67 |
 | 7  | 畢生よ              | This Lifetime       | Kanzaki Iori | MV #61 |
-| 8  | 花女                | Flower Girl         | Kanzaki Iori | |
+| 8  | 花女                | [Flower Girl](/song-lyrics/flower-girl)         | Kanzaki Iori | |
 | 9  | メルの黄昏          |                     | Kanzaki Iori | MV #68 |
-| 10 | 痛みを              |                     | Kanzaki Iori | |
+| 10 | 痛みを              | [Through the Pain](/song-lyrics/through-the-pain)            | Kanzaki Iori | |
 | 11 | モンタージュ        | Montage             | Kanzaki Iori | |
 | 12 | 景色                |                     | Kanzaki Iori | MV #60 |
 | 13 | 帰り路              |                     | Kanzaki Iori | |
