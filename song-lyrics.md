@@ -2,7 +2,7 @@
 title: Songs
 description: 
 published: true
-date: 2022-02-03T10:07:19.735Z
+date: 2022-02-03T10:07:48.437Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T12:41:38.182Z
@@ -88,7 +88,7 @@ The introduction section to a song does not need a header.
 
 We can typeset furigana, or hiragana annotations on top of kanjis, by using the [ruby annotations](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby). The standard `<ruby>` HTML tag is implemented in all major browsers.
 
-##### Tabs
+##### Tabs {.tabset}
 
 ###### code
 
