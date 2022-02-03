@@ -2,7 +2,7 @@
 title: Virtual Artists
 description: 
 published: true
-date: 2022-01-09T13:55:04.805Z
+date: 2022-02-03T10:05:56.620Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:16:21.509Z
@@ -12,9 +12,16 @@ dateCreated: 2022-01-09T04:16:21.509Z
 
 ## VWP
 
-**Virtual Witch Phenomenon** is considered the "core group" of virtual artists in Kamitsubaki Studio, group debuted in concert Fukakai2 Q2. Members are Kaf, Rim, Harusaruhi, Isekaijoucho, and Koko.
+**Virtual Witch Phenomenon** is considered the "core group" of virtual artists in Kamitsubaki Studio, group debuted in concert Fukakai2 Q2.
 
-## Others
+Members are: 
+- [Kaf](/people/virtual/kaf)
+- [Rim](/people/virtual/rim)
+- [Harusaruhi](/people/virtual/Harusaruhi)
+- [Isekaijoucho](/people/virtual/isekaijoucho), and
+- [Koko](/people/virtual/koko)
+
+## Other Members
 
 CIEL was auditioned at 神椿市異住定獣課, a U20 audition in late 2019. Debuted in mid 2021, performing the theme song for movie "Pompo: The Cinéphile".
 
