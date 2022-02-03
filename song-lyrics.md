@@ -2,7 +2,7 @@
 title: Songs
 description: 
 published: true
-date: 2022-02-03T10:07:48.437Z
+date: 2022-02-03T10:12:10.397Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T12:41:38.182Z
@@ -10,6 +10,15 @@ dateCreated: 2021-06-12T12:41:38.182Z
 
 # Song Translations
 
+Currently, each artist's list of songs have been moved to their own respective wiki page:
+
+- [Kaf](/people/virtual/kaf#songs)
+- [Rim](/people/virtual/rim#songs)
+- [Harusaruhi](/people/virtual/Harusaruhi#songs)
+- [Isekaijoucho](/people/virtual/isekaijoucho#songs)
+- [Koko](/people/virtual/koko#songs)
+
+<!-- old section, preserved for now while reorganizing
 ## Kaf
 
 -   [魔女 | majo | Witch](/song-lyrics/majo)
@@ -44,6 +53,7 @@ RIM's 1st album, released on 21 Jul 2021.
 ## koko
 
 -   [この世界に口づけを | To Kiss This World](/song-lyrics/to-kiss-this-world)
+-->
 
 # Editor Notes
 
