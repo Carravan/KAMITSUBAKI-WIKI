@@ -2,7 +2,7 @@
 title: Songs
 description: 
 published: true
-date: 2022-02-03T10:12:10.397Z
+date: 2022-02-05T05:47:48.612Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T12:41:38.182Z
@@ -108,7 +108,7 @@ We can typeset furigana, or hiragana annotations on top of kanjis, by using the 
 
 ###### rendered
 
-痛いたみを
+<ruby>痛<rt>いた</rt>みを</ruby>
 
 ### Problem: Markdown Support
 
