@@ -2,15 +2,15 @@
 title: Through the Pain
 description: 痛みを itami o - Kaf
 published: true
-date: 2022-01-28T06:21:20.008Z
+date: 2022-02-05T07:38:24.129Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-12T12:47:54.819Z
 ---
 
-Through the Pain is track 10 of Kaf's 2nd album Mahou.
+Through the Pain is Kaf's original song, written by Kanzaki Iori.
 
-Lyrics and Composition by Kanzaki Iori
+It is used as the theme song for [Kamitsubaki City Emergence](/kamitsubaki-city#Emergence), and featured as track 10 in [Mahou](https://kamitsubakilore.com/en/people/virtual/kaf#mahou), Kaf's 2nd album. Currently there isn't an MV for the song.
 
 # Lyrics
 
