@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-01-29T10:33:16.076Z
+date: 2022-02-05T07:09:27.531Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -67,9 +67,9 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 | #92.5 | あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
 | #95.5 | 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
 
-### Observe
+### Kansoku
 
-Observe (観測) is Kaf's first album, released on 2019 Sep 11.
+Kansoku (観測, observe) is Kaf's first album, released on 2019 Sep 11.
 
 | #  | Name                | Translation         | Written by   | Notes  |
 | -- | ------------------- | ------------------- | ------------ | ------ |
@@ -93,9 +93,9 @@ Observe (観測) is Kaf's first album, released on 2019 Sep 11.
 [Spotify](https://open.spotify.com/album/1UtxjH5hbvomzvMj8reKI2)
 [MusicBrainz](https://musicbrainz.org/release-group/ae8bbb40-d622-476f-98c5-dadf25f4a465)
 
-### Magic
+### Mahou
 
-Magic (魔法) is Kaf's second major album, released on 2020 Dec 16.
+Mahou (魔法, magic) is Kaf's second major album, released on 2020 Dec 16.
 
 | #  | Name                | Translation         | Written by   | Notes  |
 | -- | ------------------- | ------------------- | ------------ | ------ |
