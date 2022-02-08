@@ -2,13 +2,17 @@
 title: EMA
 description: 
 published: true
-date: 2022-01-10T07:40:48.312Z
+date: 2022-02-08T09:49:47.130Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T04:06:52.101Z
 ---
 
-She is the vocalist for DUSTCELL. It is a well-known fact that she previously went by the name rei sirose as an utaite and 久遠千歳 (Kudou, Chitose) as a liver from Nijisanji. However, it is imperative to respect her choice and limit the discussion just between fans.
+> The following page contains information about the artist's previous identities.
+> While the following information may be considered public, please treat them with respect, and limit discussions on the matter to only between fans.
+{.is-warning}
+
+EMA is the vocalist for DUSTCELL. It is a well-known fact that she previously went by the name rei sirose as an utaite and 久遠千歳 (Kudou, Chitose) as a liver from Nijisanji.
 
 # rei sirose
 
