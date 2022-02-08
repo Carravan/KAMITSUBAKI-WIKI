@@ -2,7 +2,7 @@
 title: Virtual Artists
 description: 
 published: true
-date: 2022-02-03T10:05:56.620Z
+date: 2022-02-08T09:37:17.674Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:16:21.509Z
@@ -37,3 +37,5 @@ VALIS, virtual circus group. 6 members are: Chino, Myu, Neffy, Nina, Rara, and V
 存流, aru, debuted on 2021 Jun 20.
 
 明透, asu, debuted on 2021 Aug 23.
+
+tobia debuted on 2021 Nov 18. Announced during Sinsekai Studio's first livestream^[https://www.youtube.com/watch?v=PKmCny8yWDM], and released first cover on the same day.
