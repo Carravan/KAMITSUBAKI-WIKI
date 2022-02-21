@@ -2,7 +2,7 @@
 title: Flower Girl
 description: 花女 Hanna Onna
 published: true
-date: 2022-02-05T09:01:49.729Z
+date: 2022-02-21T12:14:48.187Z
 tags: kaf
 editor: markdown
 dateCreated: 2021-06-14T11:48:36.097Z
@@ -11,6 +11,10 @@ dateCreated: 2021-06-14T11:48:36.097Z
 Flower Girl is track 8 of Kaf's 2nd album Mahou.
 
 # Lyrics
+
+The song is about a girl who fell in love, having a conversation with her past cynical self. A love song about coming terms with your past self: overcoming bitterness and jadedness from past pain while not turning away from it - rather embracing it.
+
+## Translation
 
 Translation by Vaynonym
 
