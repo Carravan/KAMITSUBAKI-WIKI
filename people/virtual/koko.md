@@ -2,7 +2,7 @@
 title: Koko
 description: 幸祜
 published: true
-date: 2022-04-03T14:36:21.193Z
+date: 2022-04-03T15:32:40.976Z
 tags: vsinger
 editor: markdown
 dateCreated: 2022-01-09T07:12:24.408Z
@@ -10,9 +10,10 @@ dateCreated: 2022-01-09T07:12:24.408Z
 
 Debuted on 2020 Oct 23, fifth virtual artist of Kamitsubaki Studio, member of [VWP](/people/group/vwp).
 
-First one man live "Player" 2021 Dec 30 in Tokyo Hulic Hall.
+First one man live "PLAYER" 2021 Dec 30 in Tokyo Hulic Hall.
 
 # Songs
+## Music Videos
 
 | # | Name | JP Name | Written by | Published | Links | Notes |
 | - | ---- | ------- | ---------- | --------- | ----- | ----- |
@@ -26,6 +27,25 @@ First one man live "Player" 2021 Dec 30 in Tokyo Hulic Hall.
 | 013 | LIT | | Onuma Parsley | 2021 Dec 25 | [Youtube](https://www.youtube.com/watch?v=f_nFR7iAWYM) | |
 | 019 | | 閃光の彼方 | Feryquitous | 2022 Feb 26 | [Youtube](https://www.youtube.com/watch?v=S6q03O-g6mA) | |
 
+## prayer
+
+prayer is Koko's first album, released on 2022 Feb 23.
+
+| #  | Name             | Translation         | Written by   | Notes  |
+| -- | ---------------- | ------------------- | ------------ | ------ |
+| 1  | 白昼夢        | Daydream         | Onuma Parsley | MV #04 |
+| 2  | LIT          |                 | Onuma Parsley | MV #13 |
+| 3  | 花と蜜       | Flower and Nectar     | Onuma Parsley | |
+| 4  | 瞑目          | Closing one's eyes         | Kashii Moimi | MV #13 |
+| 5  | 錘            | Weight            | Onuma Parsley | |
+| 6  | the last bullet |                | DIVELA  | MV #12 |
+| 7  | harmony         |                | Len | MV #02 |
+| 8  | レイヴン・フリージア | Raven Freesia | Kashii Moimi | |
+| 9  | 夜光を呼ぶ       | Recall Me         | Feryquitous | MV #11 |
+| 10 | この世界に口づけを | Kiss this world  | Len | MV #05 |
+| 11 | 此処へ         | KOKO HE           | Onuma Parsley | |
+| 12 | 閃光の彼方       | Beyond the Flash | Feryquitous   | MV #19 |
+| 13 | Bliss          |                  | Feryquitous   | |
 
 # Links
 [youtube](https://www.youtube.com/channel/UC7Gow-kNHq21oejSIDg9PAg)
