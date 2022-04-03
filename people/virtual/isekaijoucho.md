@@ -2,7 +2,7 @@
 title: Isekaijoucho
 description: ヰ世界情緒
 published: true
-date: 2022-01-29T10:14:16.045Z
+date: 2022-04-03T23:39:29.883Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z
@@ -10,9 +10,13 @@ dateCreated: 2021-04-03T23:51:44.384Z
 
 # Isekaijoucho / ヰ世界情緒
 
+> A virtual dark singer who dreams of expressing the world with her songs and creative work.
+
 Debuted on 2019 Dec 9, she is dubbed a "Virtual Dark Singer"^[https://youtu.be/0IlaXyzdoIA].
 
 Anemos^[http://kamitsubaki.jp/words/page/3/], the creatures seems to be sentient. Ojou wears a headband featuring a pin that looks like an Anemos.
+
+First one man live Anima on 23th Oct 2021.
 
 ## Songs
 
@@ -39,22 +43,23 @@ Creation (<span title="sousei">創生</span>) is Isekaijoucho's first album, rel
 
 | #  | Name           | Translation       | Written by  | Notes  |
 | -- | -------------- | ----------------- | ----------- | ------ |
-| 1  | 創生 - Instrumental | Creation     | | |
+| 1  | 創生 - Instrumental | Creation    | samayuzame | |
 | 2  | 物語りのワルツ | Waltz of Story    | samayuzame  | MV #03 |
 | 3  | いろはに咲きて |                   | samayuzame  | MV #06 |
 | 4  | ハイドレンジア | Hydrangea         | Toukasa     | MV #05 |
 | 5  | ジオラマドラマ |                   | samayuzame  | MV #04 |
 | 6  | 斯く美しき造花 |                   | Toukasa     | MV #08 |
-| 7  | マボロシのまち |                   |             | |
-| 8  | やさしいせかい |                   |             | |
-| 9  | ANEMONE        |                   |             | |
+| 7  | マボロシのまち |                   | samayuzame  | |
+| 8  | やさしいせかい |                   | samayuzame  | |
+| 9  | ANEMONE      |                   | samayuzame  | |
 | 10 | ヰ世界の宝石譚 |                   | sasakure.UK | MV #14 |
 | 11 | シリウスの心臓 | Heart of Sirius   | 傘村トータ  | MV #10 |
 | 12 | とめどなき白情 | Endless Whiteness | Harumaki Gohan | MV #07 |
-| 13 | 霞がついてくる |                   |             | |
-| 14 | 誰もいない絵で |                   |             | |
-| 15 | ARCADIA        |                   |             | |
+| 13 | 霞がついてくる |                   | Harumaki Gohan | MV #24 |
+| 14 | 誰もいない絵で |                   | rionos         | MV #18 |
+| 15 | ARCADIA      |                   | Kashii Moimo   | |
 
 ## Links
 [Youtube channel](https://www.youtube.com/channel/UCah4_WVjmr8XA7i5aigwV-Q)
+[twitter](https://twitter.com/isekaijoucho)
 [MusicBrainz](https://musicbrainz.org/artist/0e51b3c5-28c3-4608-aea1-ce01eca91dd2)
