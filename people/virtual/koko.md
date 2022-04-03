@@ -2,13 +2,13 @@
 title: Koko
 description: 幸祜
 published: true
-date: 2022-01-25T07:47:26.526Z
+date: 2022-04-03T14:29:22.401Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T07:12:24.408Z
 ---
 
-Debuted on 2020 Oct 23, fifth virtual artist of Kamitsubaki Studio, member of VWP.
+Debuted on 2020 Oct 23, fifth virtual artist of Kamitsubaki Studio, member of [VWP](/people/group/vwp).
 
 First one man live "Player" 2021 Dec 30 in Tokyo Hulic Hall.
 
@@ -24,6 +24,7 @@ First one man live "Player" 2021 Dec 30 in Tokyo Hulic Hall.
 | 011 | | 夜光を呼ぶ | [Feryquitous](https://twitter.com/Feryquitous_) | 2021 Sep 28 | [Youtube](https://www.youtube.com/watch?v=fmbuOL-jjN0) | |
 | 012 | the last bullet | | [DIVELA](https://twitter.com/MIX_Destroy) | 2021 Oct 2 | [Youtube](https://www.youtube.com/watch?v=Sn1ieBOLGB0) | |
 | 013 | LIT | | Onuma Parsley | 2021 Dec 25 | [Youtube](https://www.youtube.com/watch?v=f_nFR7iAWYM) | |
+| 019 | | 閃光の彼方 | Feryquitous | 2022 Feb 26 | [Youtube](https://www.youtube.com/watch?v=S6q03O-g6mA) | |
 
 
 # Links
