@@ -2,7 +2,7 @@
 title: Rim
 description: 理芽
 published: true
-date: 2022-01-27T06:37:32.364Z
+date: 2022-04-03T07:30:56.936Z
 tags: vwp, vsinger
 editor: markdown
 dateCreated: 2021-06-12T15:43:56.732Z
@@ -32,6 +32,8 @@ Most famous for her original song [Carnivorous Plant](https://www.youtube.com/wa
 | #18 | 胎児に月はキスをしない  | The Moon Not Kiss the Foetation  | Sasagawa Mao | 2021 Apr 28 | [Youtube](https://www.youtube.com/watch?v=-dAz7Se-umM) |
 | #20 | 十九月                  | Juuku-Gatsu       | Sasagawa Mao | 2021 Jun 9  | [Youtube](https://www.youtube.com/watch?v=EGhhBKr4OzY) |
 | #21 | やさしくしないで        | Don't be Kind to Me              | Sasagawa Mao | 2021 Jul 24 | [Youtube](https://www.youtube.com/watch?v=nLFi_zEUXOs) |
+| #24 | NEUROMANCE          |                  | Sasagawa Mao | 2022 Mar 6 | [Youtube](https://www.youtube.com/watch?v=LyTaD9pbI7M) |
+| #25 | さみしいひと          | Lonely              | Sasagawa Mao | 2022 Mar 25 | [Youtube](https://www.youtube.com/watch?v=gr2pXdiAHsg) |
 
 ### NEW ROMANCER
 
@@ -41,13 +43,13 @@ New Romancer is Rim's first album, released on 2021 Jul 21. Performed in concert
 | -- | ---------------- | ------------------- | ------------ | ------ |
 | 1  | ピロウトーク     | Pillow Talk         | Sasagawa Mao | MV #09 |
 | 2  | ラヴソング       | Love Song           | Sasagawa Mao | |
-| 3  | さみしいひと     | Lonely              | Sasagawa Mao | |
+| 3  | さみしいひと     | Lonely              | Sasagawa Mao | MV #25 |
 | 4  | 宿木             | Mistletoe           | Sasagawa Mao?| |
 | 5  | いたいよ         | It Hurts            | Sasagawa Mao | |
 | 6  | 甘美な無法       | Luscious Lawless    | Sasagawa Mao | MV #15 |
 | 7  | 食虫植物         | Carnivorous Plant   | Sasagawa Mao | MV #08 |
 | 8  | 胎児に月はキスをしない | The Moon Not Kiss the Foetation | Sasagawa Mao | MV #18 |
-| 9  | NEUROMANCE       |                     | Sasagawa Mao | |
+| 9  | NEUROMANCE       |                     | Sasagawa Mao | MV #24 |
 | 10 | ユーエンミー     | You & Me            | Sasagawa Mao | MV #05 |
 | 11 | クライベイビー   | Cry Baby            | Sasagawa Mao | MV #13 |
 | 12 | 魔的             | Magical             | Sasagawa Mao | |
