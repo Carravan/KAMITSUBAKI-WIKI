@@ -2,17 +2,17 @@
 title: Harusaruhi
 description: 春猿火
 published: true
-date: 2022-04-03T16:11:50.489Z
+date: 2022-04-03T16:12:58.601Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-08-30T11:11:50.763Z
 ---
 
-Member of VWP. Character design by [Hotake Fujimaru](https://twitter.com/hotake6379).
+Member of [VWP](/people/group/vwp). Character design by [Hotake Fujimaru](https://twitter.com/hotake6379).
 
-1st one man live on 27th Aug 2021.
+First one man live Shamanism on 27th Aug 2021.
 
-Managed by Taifu, alongside Ojou, until Aug 2021.
+Managed by [Taifu](/people/managers/taifu), alongside Ojou, until Aug 2021.
 
 # Songs
 
