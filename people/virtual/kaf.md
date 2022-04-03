@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-02-05T07:09:27.531Z
+date: 2022-04-03T05:29:27.316Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -61,11 +61,13 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 | #80 | 例えば           | | Kanzaki Iori | 2021 May 19 | [Youtube](https://www.youtube.com/watch?v=4_fvGiulqk8) | movie "Pompo: The Cinéphile" insert song |
 | #83 | 海に化ける       | | Kanzaki Iori | 2021 Jun 30 | [Youtube](https://www.youtube.com/watch?v=2BWdQcAvP9k) | response to Devour the Past (MV #22) |
 | #87 | 世惑い子         | | Kanzaki Iori | 2021 Oct 14 | [Youtube](https://www.youtube.com/watch?v=13eFWjlus_g) | RPG "Monark" insert song |
-| #89.5 | 鏡よ鏡           | | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
-| #90.5 | イマジナリーフレンド | Imaginary Friend | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
+| #89 | 鏡よ鏡           | | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
+| #90 | イマジナリーフレンド | Imaginary Friend | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
 | #91 | それを世界と言うんだね | | Kanzaki Iori | 2021 Nov 30 | [Youtube](https://www.youtube.com/watch?v=w6eWno3iAjk) | for publisher kiminovel |
-| #92.5 | あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
-| #95.5 | 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
+| #92 | あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
+| #95 | 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
+| #96 | わたしの線香     | | Hanyuu, Maigo | 2022 Feb 23 | [Youtube](https://www.youtube.com/watch?v=8Kfx0a0ILGA) | Collab Project No. 5 - Hanyuu, Maigo |
+| #97 | 春陽        | | Kujira | 2022 Mar 25 | [Youtube](https://www.youtube.com/watch?v=_lwuIkxz1bc) | Collab Project No. 6 - Kujira |
 
 ### Kansoku
 
