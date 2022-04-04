@@ -2,7 +2,7 @@
 title: Harusaruhi
 description: 春猿火
 published: true
-date: 2022-04-03T16:12:58.601Z
+date: 2022-04-04T01:01:07.273Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-08-30T11:11:50.763Z
@@ -42,7 +42,7 @@ Managed by [Taifu](/people/managers/taifu), alongside Ojou, until Aug 2021.
 | 2  | 逆転              |                     | takayan      | MV #03 |
 | 3  | Lift Up           |                     | takayan      | MV #04 |
 | 4  | 猛進              |                     | takayan      | MV #05 |
-| 5  | 青春              |                     |              | MV #20 |
+| 5  | 青春              |                     | takayan      | MV #20 |
 | 6  | 告げ口            |                     | takayan      | MV #07 |
 | 7  | オオゴト          |                     | takayan      | MV #06 |
 | 8  | 覚醒              |                     | takayan      | MV #13 |
@@ -53,4 +53,5 @@ Managed by [Taifu](/people/managers/taifu), alongside Ojou, until Aug 2021.
 
 ## Links
 [Youtube channel](https://www.youtube.com/channel/UCE7gtjLeZKNXLp5YURzYYeg)
+[twitter](https://twitter.com/harusaruhi)
 [MusicBrainz](https://musicbrainz.org/artist/ec1fea33-7dcd-45eb-a7a0-f299236617da)
