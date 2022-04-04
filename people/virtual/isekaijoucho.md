@@ -2,7 +2,7 @@
 title: Isekaijoucho
 description: ヰ世界情緒
 published: true
-date: 2022-04-03T23:39:29.883Z
+date: 2022-04-04T09:23:49.406Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z
@@ -57,7 +57,10 @@ Creation (<span title="sousei">創生</span>) is Isekaijoucho's first album, rel
 | 12 | とめどなき白情 | Endless Whiteness | Harumaki Gohan | MV #07 |
 | 13 | 霞がついてくる |                   | Harumaki Gohan | MV #24 |
 | 14 | 誰もいない絵で |                   | rionos         | MV #18 |
-| 15 | ARCADIA      |                   | Kashii Moimo   | |
+| 15 | ARCADIA      |                   | Kashi Moimi   | |
+
+[Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kYiEzdpcVz1ku5nGHqb5M_iz8QTFjqTiU)
+[Spotify](https://open.spotify.com/album/6hHdfC72uDkOAUltg9eolo)
 
 ## Links
 [Youtube channel](https://www.youtube.com/channel/UCah4_WVjmr8XA7i5aigwV-Q)
