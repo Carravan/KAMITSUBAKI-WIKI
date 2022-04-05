@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-04-03T05:29:27.316Z
+date: 2022-04-05T11:40:02.094Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -123,4 +123,5 @@ Mahou (魔法, magic) is Kaf's second major album, released on 2020 Dec 16.
 
 ## Links
 [Youtube Channel](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
+[Twitter](https://twitter.com/virtual_kaf)
 [MusicBrainz](https://musicbrainz.org/artist/47ba70a2-d040-4265-bf52-86b9ef28c2c9)
