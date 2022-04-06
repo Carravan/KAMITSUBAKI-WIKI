@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-04-05T11:40:02.094Z
+date: 2022-04-06T13:32:37.353Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -71,7 +71,7 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 
 ### Kansoku
 
-Kansoku (観測, observe) is Kaf's first album, released on 2019 Sep 11.
+Kansoku (観測, observation) is Kaf's first album, released on 2019 Sep 11.
 
 | #  | Name                | Translation         | Written by   | Notes  |
 | -- | ------------------- | ------------------- | ------------ | ------ |
@@ -86,9 +86,9 @@ Kansoku (観測, observe) is Kaf's first album, released on 2019 Sep 11.
 | 9  | 過去を喰らう        | Devour the Past     | Kanzaki Iori | MV #22 |
 | 10 | エリカ              | Erica               | Kanzaki Iori | MV #38 |
 | 11 | 雛鳥                |                     | Kanzaki Iori | MV #17 |
-| 12 | 夜が降り止む前に    |                     | Kanzaki Iori | MV #25 |
+| 12 | 夜が降り止む前に    | Before the Night Falls | Kanzaki Iori | MV #25 |
 | 13 | 不可解              | Incomprehensible    | Kanzaki Iori | MV #36 |
-| 14 | そして花になる      |                     | Kanzaki Iori | MV #27 |
+| 14 | そして花になる      | And Become a Flower | Kanzaki Iori | MV #27 |
 | 15 | The end of prologue -Instrumental- |      | Kanzaki Iori |        |
 
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_nD7MICaaeXtZhdlAnA-RoFyrcjyrlnO4M)
@@ -101,21 +101,21 @@ Mahou (魔法, magic) is Kaf's second major album, released on 2020 Dec 16.
 
 | #  | Name                | Translation         | Written by   | Notes  |
 | -- | ------------------- | ------------------- | ------------ | ------ |
-| 1  | 魔法のない世界 (instrumental) | World without Magic |              |        |
-| 2  | 危ノーマル          |                     | Kanzaki Iori | MV #57 |
+| 1  | 魔法のない世界 (instrumental) | A World without Magic |              |        |
+| 2  | 危ノーマル          | Abnormal            | Kanzaki Iori | MV #57 |
 | 3  | アンサー            | Answer              | Kanzaki Iori | MV #58 |
-| 4  | 私論理              | Watashi Ronri       | Kanzaki Iori | MV #49 |
-| 5  | 戸惑いテレパシー    |                     | Kanzaki Iori | MV #56 |
-| 6  | 彷徨い              |                     | Kanzaki Iori | MV #67 |
+| 4  | 私論理              | My Logic           | Kanzaki Iori | MV #49 |
+| 5  | 戸惑いテレパシー    | Confused Telepathy  | Kanzaki Iori | MV #56 |
+| 6  | 彷徨い              | Wandering           | Kanzaki Iori | MV #67 |
 | 7  | 畢生よ              | This Lifetime       | Kanzaki Iori | MV #61 |
 | 8  | 花女                | [Flower Girl](/song-lyrics/flower-girl)         | Kanzaki Iori | |
-| 9  | メルの黄昏          |                     | Kanzaki Iori | MV #68 |
+| 9  | メルの黄昏          | Mel's Twilight       | Kanzaki Iori | MV #68 |
 | 10 | 痛みを              | [Through the Pain](/song-lyrics/through-the-pain)            | Kanzaki Iori | |
 | 11 | モンタージュ        | Montage             | Kanzaki Iori | |
-| 12 | 景色                |                     | Kanzaki Iori | MV #60 |
-| 13 | 帰り路              |                     | Kanzaki Iori | |
-| 14 | まほう feat. 理芽   |                     | Kanzaki Iori | |
-| 14 | 世界線は分岐する (instrumental) |         | Kanzaki Iori | |
+| 12 | 景色                | Landscape           | Kanzaki Iori | MV #60 |
+| 13 | 帰り路              | On the Way Back Home | Kanzaki Iori | |
+| 14 | まほう feat. 理芽   | Magic feat. Rim    | Kanzaki Iori | |
+| 14 | 世界線は分岐する (instrumental) | The World Line Branches | Kanzaki Iori | |
 
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_lChRRz0V1zdkk-bAmHHHzm8mgfuJz1gcA)
 [Spotify](https://open.spotify.com/album/4GmTRxRhRzkPDybCcANTvt)
