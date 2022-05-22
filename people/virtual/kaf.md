@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-04-06T13:32:37.353Z
+date: 2022-05-22T03:23:09.099Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -64,10 +64,13 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 | #89 | 鏡よ鏡           | | GLIM SPANKY | 2021 Oct 27 | [Youtube](https://www.youtube.com/watch?v=cKAly4V8bgM) | Collab project No. 1 - GLIM SPANKY |
 | #90 | イマジナリーフレンド | Imaginary Friend | Oomori, Seiko, arranged by 大久保薫 | 2021 Nov 17 | [Youtube](https://www.youtube.com/watch?v=kY8fpqf_OGU) | Collab Project No. 2 - Oomori, Seiko | 
 | #91 | それを世界と言うんだね | | Kanzaki Iori | 2021 Nov 30 | [Youtube](https://www.youtube.com/watch?v=w6eWno3iAjk) | for publisher kiminovel |
-| #92 | あさひ           | | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
+| #92 | あさひ           | Asahi | Kanzaki Iori | 2021 Dec 8 | [Youtube](https://www.youtube.com/watch?v=88VEBN7QIoo) | Collab Project No. 3 - Sakura, Ayane |
 | #95 | 飛翔するmeme     | | Tanaka, and Loyly Lewis | 2022 Jan 19 | [Youtube](https://www.youtube.com/watch?v=FtAvYnbOCws) | Collab Project No. 4 - Tanaka |
 | #96 | わたしの線香     | | Hanyuu, Maigo | 2022 Feb 23 | [Youtube](https://www.youtube.com/watch?v=8Kfx0a0ILGA) | Collab Project No. 5 - Hanyuu, Maigo |
 | #97 | 春陽        | | Kujira | 2022 Mar 25 | [Youtube](https://www.youtube.com/watch?v=_lwuIkxz1bc) | Collab Project No. 6 - Kujira |
+| #98 | 蕾に雷       | | Hasegawa, Hakushi | 2022 Apr 20 | [Youtube](https://www.youtube.com/watch?v=K26fPtPcCys) | Collab Project No. 7 - Hasegawa, Hakushi |
+| #99 | Beyond META | | MIYAVI | 2022 May 11 | [Youtube](https://www.youtube.com/watch?v=3F5h3yAhtDE) | Collab Project No. 8 - MIYAVI |
+| #101 | 神聖革命バーチャルリアリティ | Sacred Revolution Virtual Reality | Kanzaki Iori | 2022 May 16 | [Youtube](https://www.youtube.com/watch?v=VqcRkNt8BTQ) | a collab song with VALIS, a special version of VALIS song Kakumei Virtual Reality |
 
 ### Kansoku
 
@@ -110,7 +113,7 @@ Mahou (魔法, magic) is Kaf's second major album, released on 2020 Dec 16.
 | 7  | 畢生よ              | This Lifetime       | Kanzaki Iori | MV #61 |
 | 8  | 花女                | [Flower Girl](/song-lyrics/flower-girl)         | Kanzaki Iori | |
 | 9  | メルの黄昏          | Mel's Twilight       | Kanzaki Iori | MV #68 |
-| 10 | 痛みを              | [Through the Pain](/song-lyrics/through-the-pain)            | Kanzaki Iori | |
+| 10 | 痛みを              | [Through the Pain](/song-lyrics/through-the-pain)     | Kanzaki Iori | |
 | 11 | モンタージュ        | Montage             | Kanzaki Iori | |
 | 12 | 景色                | Landscape           | Kanzaki Iori | MV #60 |
 | 13 | 帰り路              | On the Way Back Home | Kanzaki Iori | |
