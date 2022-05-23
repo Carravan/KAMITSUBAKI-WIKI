@@ -2,7 +2,7 @@
 title: Rim
 description: 理芽
 published: true
-date: 2022-04-03T07:30:56.936Z
+date: 2022-05-23T10:13:06.101Z
 tags: vwp, vsinger
 editor: markdown
 dateCreated: 2021-06-12T15:43:56.732Z
@@ -34,6 +34,7 @@ Most famous for her original song [Carnivorous Plant](https://www.youtube.com/wa
 | #21 | やさしくしないで        | Don't be Kind to Me              | Sasagawa Mao | 2021 Jul 24 | [Youtube](https://www.youtube.com/watch?v=nLFi_zEUXOs) |
 | #24 | NEUROMANCE          |                  | Sasagawa Mao | 2022 Mar 6 | [Youtube](https://www.youtube.com/watch?v=LyTaD9pbI7M) |
 | #25 | さみしいひと          | Lonely              | Sasagawa Mao | 2022 Mar 25 | [Youtube](https://www.youtube.com/watch?v=gr2pXdiAHsg) |
+| #26 | ピルグリム          | Pilgrim              | Sasagawa Mao | 2022 Apr 27 | [Youtube](https://www.youtube.com/watch?v=RoZRMSIdZ6U) |
 
 ### NEW ROMANCER
 
