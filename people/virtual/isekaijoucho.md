@@ -2,7 +2,7 @@
 title: Isekaijoucho
 description: ヰ世界情緒
 published: true
-date: 2022-04-04T09:23:49.406Z
+date: 2022-05-23T10:05:18.443Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z
@@ -36,6 +36,7 @@ First one man live Anima on 23th Oct 2021.
 | #15 | ディメンション |                   | [柊マグネタイト](https://twitter.com/hiiragi_magne) | 2021 Oct 13 | [Youtube](https://www.youtube.com/watch?v=-x1Tyg2uvVM) |
 | #18 | 誰もいない絵で |                   | [rionos](https://twitter.com/rionos) | 2021 Oct 23 | [Youtube](https://www.youtube.com/watch?v=LgR34fFacVw) |
 | #24 | 霞がついてくる |                   | Harumaki Gohan | 2021 Dec 9 | [Youtube](https://www.youtube.com/watch?v=EXicNyq5fG4) |
+| #26 | ARCADIA     |                   | Kashi Moimi | 2022 May 21 | [Youtube](https://www.youtube.com/watch?v=KMvUdCyIVxw) |
 
 ### Creation
 
@@ -57,7 +58,7 @@ Creation (<span title="sousei">創生</span>) is Isekaijoucho's first album, rel
 | 12 | とめどなき白情 | Endless Whiteness | Harumaki Gohan | MV #07 |
 | 13 | 霞がついてくる |                   | Harumaki Gohan | MV #24 |
 | 14 | 誰もいない絵で |                   | rionos         | MV #18 |
-| 15 | ARCADIA      |                   | Kashi Moimi   | |
+| 15 | ARCADIA      |                   | Kashi Moimi   | MV #26 |
 
 [Youtube Music](https://music.youtube.com/playlist?list=OLAK5uy_kYiEzdpcVz1ku5nGHqb5M_iz8QTFjqTiU)
 [Spotify](https://open.spotify.com/album/6hHdfC72uDkOAUltg9eolo)
