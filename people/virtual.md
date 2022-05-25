@@ -2,7 +2,7 @@
 title: Virtual Artists
 description: 
 published: true
-date: 2022-02-08T09:37:17.674Z
+date: 2022-05-25T09:59:59.306Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:16:21.509Z
@@ -32,7 +32,7 @@ te'resa is jointly managed by Kamitsubaki Studio, and sister studio Imaginary St
 
 see Sinsekai Studio
 
-VALIS, virtual circus group. 6 members are: Chino, Myu, Neffy, Nina, Rara, and Vitte. Debuted on 2020 May 15, officially announced as part of Sinsekai on 2021 Jun 22.
+[VALIS](/people/group/valis), virtual circus group. 6 members are: Chino, Myu, Neffy, Nina, Rara, and Vitte. Debuted on 2020 May 15, officially announced as part of Sinsekai on 2021 Jun 22.
 
 存流, aru, debuted on 2021 Jun 20.
 
