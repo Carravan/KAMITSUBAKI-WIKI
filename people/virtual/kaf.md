@@ -2,7 +2,7 @@
 title: Kaf
 description: 花譜
 published: true
-date: 2022-05-25T05:14:07.811Z
+date: 2022-05-25T09:58:35.199Z
 tags: vsinger
 editor: markdown
 dateCreated: 2021-07-18T07:11:55.370Z
@@ -70,7 +70,7 @@ Kafu is a voice synthesizer based on Kaf, developed by CeVIO AI in collaboration
 | #97 | 春陽        | | Kujira | 2022 Mar 25 | [Youtube](https://www.youtube.com/watch?v=_lwuIkxz1bc) | Collab Project No. 6 - Kujira |
 | #98 | 蕾に雷       | | Hasegawa, Hakushi | 2022 Apr 20 | [Youtube](https://www.youtube.com/watch?v=K26fPtPcCys) | Collab Project No. 7 - Hasegawa, Hakushi |
 | #99 | Beyond META | | MIYAVI | 2022 May 11 | [Youtube](https://www.youtube.com/watch?v=3F5h3yAhtDE) | Collab Project No. 8 - MIYAVI |
-| #101 | 神聖革命バーチャルリアリティ | Sacred Revolution Virtual Reality | Kanzaki Iori, arranged by Yoshihisa Hirata, rap by Takayan | 2022 May 16 | [Youtube](https://www.youtube.com/watch?v=VqcRkNt8BTQ) | a collab song with VALIS, a special version of VALIS song Kakumei Virtual Reality |
+| #101 | 神聖革命バーチャルリアリティ | Sacred Revolution Virtual Reality | Kanzaki Iori, arranged by Yoshihisa Hirata, rap by Takayan | 2022 May 16 | [Youtube](https://www.youtube.com/watch?v=VqcRkNt8BTQ) | a collab song with [VALIS](/people/group/valis), a special ver. of VALIS song Kakumei Virtual Reality |
 
 ### Kansoku
 
