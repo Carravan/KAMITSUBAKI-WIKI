@@ -2,7 +2,7 @@
 title: VALIS
 description: Virtual Artificial Living Intelligence System
 published: true
-date: 2022-05-25T06:32:07.031Z
+date: 2022-05-25T06:33:04.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-25T06:32:07.031Z
@@ -13,7 +13,7 @@ dateCreated: 2022-05-25T06:32:07.031Z
 ## Songs
 
 | #   | Name     | Translation       | Written by   | Released    | Links |
-| --- | -------- | ----------------- | ------------ | ----------- |
+| --- | -------- | ----------------- | ------------ | ----------- | ---- |
 | #1  | 残響ヴァンデラー | Zankyo Wanderer | Kairiki Bear | 2020 May 15 | [Youtube](https://www.youtube.com/watch?v=naEcoX-UStg) |
 | #2  | 真夜中コンツェルト | Mayonaka Konzert | syudou | 2020 June 29 | [Youtube](https://www.youtube.com/watch?v=6KWn4zKSnwo) |
 | #3  | 道化師ブランケット | Dokeshi Blanket | Nilfruits | 2020 July 31 | [Youtube](https://www.youtube.com/watch?v=FvdKR_1MA0k) |
