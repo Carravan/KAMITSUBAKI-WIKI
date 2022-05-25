@@ -2,7 +2,7 @@
 title: Isekaijoucho
 description: ヰ世界情緒
 published: true
-date: 2022-05-23T10:05:18.443Z
+date: 2022-05-23T10:05:26.722Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-03T23:51:44.384Z

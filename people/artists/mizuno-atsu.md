@@ -2,7 +2,7 @@
 title: Mizuno Atsu
 description: 水野あつ
 published: true
-date: 2022-01-09T09:09:59.673Z
+date: 2022-01-09T09:10:02.085Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T09:09:36.650Z

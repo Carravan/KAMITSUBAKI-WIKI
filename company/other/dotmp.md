@@ -2,7 +2,7 @@
 title: .MP
 description: dotMP
 published: true
-date: 2021-11-01T10:57:22.093Z
+date: 2021-11-01T10:57:24.533Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-31T07:35:45.268Z

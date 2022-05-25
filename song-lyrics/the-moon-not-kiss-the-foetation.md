@@ -2,7 +2,7 @@
 title: The Moon Not Kiss the Foetation
 description: 胎児に月はキスをしない - RIM
 published: true
-date: 2021-06-16T06:00:40.597Z
+date: 2021-06-16T06:00:43.124Z
 tags: rim
 editor: markdown
 dateCreated: 2021-06-16T05:23:07.517Z

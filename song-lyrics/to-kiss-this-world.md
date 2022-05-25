@@ -2,7 +2,7 @@
 title: To Kiss This World
 description: この世界に口づけを - koko
 published: true
-date: 2021-06-15T18:06:06.408Z
+date: 2021-06-15T18:06:08.996Z
 tags: koko
 editor: markdown
 dateCreated: 2021-06-15T14:48:50.576Z

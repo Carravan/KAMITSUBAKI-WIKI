@@ -2,7 +2,7 @@
 title: The Power in Words
 description: 言霊 kotodama - V.W.P.
 published: true
-date: 2021-06-16T14:36:25.465Z
+date: 2021-06-16T14:36:28.002Z
 tags: vwp
 editor: markdown
 dateCreated: 2021-06-16T14:36:25.465Z

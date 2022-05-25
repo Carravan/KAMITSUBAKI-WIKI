@@ -2,7 +2,7 @@
 title: NEUROMANCE
 description: 
 published: true
-date: 2021-07-21T06:25:35.620Z
+date: 2021-07-21T06:25:38.611Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T06:25:35.620Z

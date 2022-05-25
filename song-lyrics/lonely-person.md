@@ -2,7 +2,7 @@
 title: Lonely Person
 description: さみしいひと - samishii hito
 published: true
-date: 2021-07-22T05:22:03.657Z
+date: 2021-07-22T05:22:52.888Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T06:52:11.462Z

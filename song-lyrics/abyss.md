@@ -2,7 +2,7 @@
 title: Abyss
 description: 深淵 shinnen - Isekaijoucho & Kaf
 published: true
-date: 2022-01-29T10:13:53.965Z
+date: 2022-01-29T10:13:56.635Z
 tags: kaf, isekaijoucho
 editor: markdown
 dateCreated: 2021-06-22T08:12:40.924Z

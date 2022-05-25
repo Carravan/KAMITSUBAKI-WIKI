@@ -2,7 +2,7 @@
 title: Oikawa Sosuke
 description: 及川創介
 published: true
-date: 2022-01-26T15:14:46.204Z
+date: 2022-01-26T15:14:48.637Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-26T15:14:46.204Z

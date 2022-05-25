@@ -2,7 +2,7 @@
 title: Kamitsubaki City Under Construction
 description: 
 published: true
-date: 2022-02-05T09:23:51.437Z
+date: 2022-02-05T09:23:53.838Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-05T07:55:37.759Z

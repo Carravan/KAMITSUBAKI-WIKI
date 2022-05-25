@@ -2,7 +2,7 @@
 title: Virtual Artists
 description: 
 published: true
-date: 2022-05-25T09:59:59.306Z
+date: 2022-05-25T10:00:02.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T04:16:21.509Z

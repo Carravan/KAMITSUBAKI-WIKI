@@ -2,7 +2,7 @@
 title: Love Song
 description: ラブソング
 published: true
-date: 2021-07-21T06:45:30.655Z
+date: 2021-07-21T06:45:33.441Z
 tags: rim
 editor: markdown
 dateCreated: 2021-07-21T06:45:30.655Z

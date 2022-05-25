@@ -2,7 +2,7 @@
 title: Yunosuke
 description:  雄之助
 published: true
-date: 2022-04-04T09:08:47.834Z
+date: 2022-04-04T09:08:50.495Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T06:51:51.688Z

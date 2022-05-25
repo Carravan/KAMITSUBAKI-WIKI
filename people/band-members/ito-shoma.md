@@ -2,7 +2,7 @@
 title: Ito Shoma
 description: 伊藤翔磨
 published: true
-date: 2022-01-27T06:32:22.228Z
+date: 2022-01-27T06:32:30.736Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T10:26:38.974Z

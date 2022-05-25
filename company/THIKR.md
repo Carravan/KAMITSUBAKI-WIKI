@@ -2,7 +2,7 @@
 title: THINKR
 description: 
 published: true
-date: 2021-11-02T06:11:34.684Z
+date: 2021-11-02T06:11:37.163Z
 tags: 
 editor: markdown
 dateCreated: 2021-07-19T06:10:24.976Z

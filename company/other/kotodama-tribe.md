@@ -2,7 +2,7 @@
 title: Kotodama Tribe
 description: THE MOON STUDIO project
 published: true
-date: 2022-01-28T16:44:01.159Z
+date: 2022-01-28T16:44:03.703Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-19T03:06:08.101Z

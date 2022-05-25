@@ -2,7 +2,7 @@
 title: Band Members
 description: 
 published: true
-date: 2022-04-17T11:36:27.406Z
+date: 2022-04-17T11:36:29.906Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-17T11:36:27.406Z

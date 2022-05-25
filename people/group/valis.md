@@ -2,7 +2,7 @@
 title: VALIS
 description: Virtual Artificial Living Intelligence System
 published: true
-date: 2022-05-25T10:42:17.409Z
+date: 2022-05-25T10:42:20.122Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-25T06:32:07.031Z

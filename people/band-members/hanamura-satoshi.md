@@ -2,7 +2,7 @@
 title: Hanamura Satoshi
 description: 花村智志 / ハナムラサトシ
 published: true
-date: 2022-01-09T07:15:41.966Z
+date: 2022-01-09T07:15:44.512Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T05:11:25.294Z

@@ -2,7 +2,7 @@
 title: FLAT STUDIO
 description: 
 published: true
-date: 2021-11-05T11:19:02.224Z
+date: 2021-11-05T11:19:04.694Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T06:45:20.457Z

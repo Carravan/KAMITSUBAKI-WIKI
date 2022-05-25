@@ -2,7 +2,7 @@
 title: Composition Inc.
 description: 3D animation
 published: true
-date: 2022-05-17T09:05:51.705Z
+date: 2022-05-17T09:05:58.868Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T09:05:51.705Z
