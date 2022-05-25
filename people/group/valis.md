@@ -2,7 +2,7 @@
 title: VALIS
 description: Virtual Artificial Living Intelligence System
 published: true
-date: 2022-05-25T10:38:48.294Z
+date: 2022-05-25T10:42:17.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-25T06:32:07.031Z
@@ -36,7 +36,7 @@ dateCreated: 2022-05-25T06:32:07.031Z
 
 ### Solo Music Videos
 | #   | Name     | Translation       | Singer | Written by   | Released    | Links |
-| --- | -------- | ----------------- | ------------ | ----------- | ---- |
+| --- | -------- | ----------------- | ------------ | ----------- | ---- | ---- |
 | #1  | I.C.E |  | Chino | Namae wa imada naidesu | 2022 May 2 | [Youtube](https://www.youtube.com/watch?v=Pixy7_azEU8) |
 | #2  | 渇愛論 | Thirsty Love Theory | Myu | Yoshihisa Hirata | 2022 May 3 | [Youtube](https://www.youtube.com/watch?v=yUppkYJCMlM) |
 | #3  | わたしマニュアル | My Manual | Nina | MIMI | 2022 May 4 | [Youtube](https://www.youtube.com/watch?v=ZjK3la923VY) |
